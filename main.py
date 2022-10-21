@@ -450,7 +450,7 @@ There are several cases to consider:
     Spacy: PRON (it) -nsubj-> be (is) <-acomp- ADJ (important)
                                       <-xcomp- VERB (leave)
     This is similar to (3)
-    UD: PRON (it) -expl-> ADJ (important) <-csubj- VERB (leave) <-nsubj- PRON (you)
+    UD: PRON (it) -expl-> ADJ (important) <-csubj- VERB (leave)
     similar to: 'to leave the room is important'
 6) 'He claimed to be a wizard'
     Spacy: PRON (he) -nsubj-> VERB (claimed) <-xcomp- be <-attr- NOUN (wizard)

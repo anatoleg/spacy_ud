@@ -1,0 +1,1775 @@
+ 1 The issues as he sees them are formidable
+1	The	lemma: the	pos: DET	dep: det	gov: 2	feats: Definite=Def|PronType=Art
+2	issues	lemma: issue	pos: NOUN	dep: nsubj	gov: 8	feats: Number=Plur
+3	as	lemma: as	pos: SCONJ	dep: mark	gov: 5	feats: None
+4	he	lemma: he	pos: PRON	dep: nsubj	gov: 5	feats: Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+5	sees	lemma: see	pos: VERB	dep: acl	gov: 2	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+6	them	lemma: they	pos: PRON	dep: obj	gov: 5	feats: Case=Acc|Number=Plur|Person=3|PronType=Prs
+7	are	lemma: be	pos: AUX	dep: cop	gov: 8	feats: Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+8	formidable	lemma: formidable	pos: ADJ	dep: root	gov: 0	feats: Degree=Pos
+
+ 2 There are many online sites offering booking facilities
+1	There	lemma: there	pos: PRON	dep: expl	gov: 2	feats: None
+2	are	lemma: be	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+3	many	lemma: many	pos: ADJ	dep: amod	gov: 5	feats: Degree=Pos
+4	online	lemma: online	pos: ADJ	dep: amod	gov: 5	feats: Degree=Pos
+5	sites	lemma: site	pos: NOUN	dep: nsubj	gov: 2	feats: Number=Plur
+6	offering	lemma: offer	pos: VERB	dep: acl	gov: 5	feats: VerbForm=Ger
+7	booking	lemma: booking	pos: NOUN	dep: compound	gov: 8	feats: Number=Sing
+8	facilities	lemma: facility	pos: NOUN	dep: obj	gov: 6	feats: Number=Plur
+
+ 3 I have a parakeet named cookie
+1	I	lemma: I	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Number=Sing|Person=1|PronType=Prs
+2	have	lemma: have	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+3	a	lemma: a	pos: DET	dep: det	gov: 4	feats: Definite=Ind|PronType=Art
+4	parakeet	lemma: parakeet	pos: NOUN	dep: obj	gov: 2	feats: Number=Sing
+5	named	lemma: name	pos: VERB	dep: acl	gov: 4	feats: Tense=Past|VerbForm=Part
+6	cookie	lemma: cookie	pos: NOUN	dep: obj	gov: 5	feats: Number=Sing
+
+ 4 A president certain that they are correct is dangerous
+1	A	lemma: a	pos: DET	dep: det	gov: 2	feats: Definite=Ind|PronType=Art
+2	president	lemma: president	pos: NOUN	dep: nsubj	gov: 9	feats: Number=Sing
+3	certain	lemma: certain	pos: ADJ	dep: acl	gov: 2	feats: Degree=Pos
+4	that	lemma: that	pos: SCONJ	dep: mark	gov: 7	feats: None
+5	they	lemma: they	pos: PRON	dep: nsubj	gov: 7	feats: Case=Nom|Number=Plur|Person=3|PronType=Prs
+6	are	lemma: be	pos: AUX	dep: cop	gov: 7	feats: Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+7	correct	lemma: correct	pos: ADJ	dep: ccomp	gov: 3	feats: Degree=Pos
+8	is	lemma: be	pos: AUX	dep: cop	gov: 9	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+9	dangerous	lemma: dangerous	pos: ADJ	dep: root	gov: 0	feats: Degree=Pos
+
+ 5 I just want a simple way to get my discount
+1	I	lemma: I	pos: PRON	dep: nsubj	gov: 3	feats: Case=Nom|Number=Sing|Person=1|PronType=Prs
+2	just	lemma: just	pos: ADV	dep: advmod	gov: 3	feats: None
+3	want	lemma: want	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+4	a	lemma: a	pos: DET	dep: det	gov: 6	feats: Definite=Ind|PronType=Art
+5	simple	lemma: simple	pos: ADJ	dep: amod	gov: 6	feats: Degree=Pos
+6	way	lemma: way	pos: NOUN	dep: obj	gov: 3	feats: Number=Sing
+7	to	lemma: to	pos: PART	dep: mark	gov: 8	feats: None
+8	get	lemma: get	pos: VERB	dep: acl	gov: 6	feats: VerbForm=Inf
+9	my	lemma: my	pos: PRON	dep: nmod:poss	gov: 10	feats: Number=Sing|Person=1|Poss=Yes|PronType=Prs
+10	discount	lemma: discount	pos: NOUN	dep: obj	gov: 8	feats: Number=Sing
+
+ 6 The fact that nobody cares bothers me
+1	The	lemma: the	pos: DET	dep: det	gov: 2	feats: Definite=Def|PronType=Art
+2	fact	lemma: fact	pos: NOUN	dep: nsubj	gov: 6	feats: Number=Sing
+3	that	lemma: that	pos: SCONJ	dep: mark	gov: 5	feats: None
+4	nobody	lemma: nobody	pos: PRON	dep: nsubj	gov: 5	feats: Number=Sing
+5	cares	lemma: care	pos: VERB	dep: acl	gov: 2	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+6	bothers	lemma: bother	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+7	me	lemma: I	pos: PRON	dep: obj	gov: 6	feats: Case=Acc|Number=Sing|Person=1|PronType=Prs
+
+ 7 I saw the man you love
+1	I	lemma: I	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Number=Sing|Person=1|PronType=Prs
+2	saw	lemma: see	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin
+3	the	lemma: the	pos: DET	dep: det	gov: 4	feats: Definite=Def|PronType=Art
+4	man	lemma: man	pos: NOUN	dep: obj	gov: 2	feats: Number=Sing
+5	you	lemma: you	pos: PRON	dep: nsubj	gov: 6	feats: Case=Nom|Person=2|PronType=Prs
+6	love	lemma: love	pos: VERB	dep: acl:relcl	gov: 4	feats: Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin
+
+ 8 I saw the book which you bought
+1	I	lemma: I	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Number=Sing|Person=1|PronType=Prs
+2	saw	lemma: see	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin
+3	the	lemma: the	pos: DET	dep: det	gov: 4	feats: Definite=Def|PronType=Art
+4	book	lemma: book	pos: NOUN	dep: obj	gov: 2	feats: Number=Sing
+5	which	lemma: which	pos: PRON	dep: obj	gov: 7	feats: PronType=Rel
+6	you	lemma: you	pos: PRON	dep: nsubj	gov: 7	feats: Case=Nom|Person=2|PronType=Prs
+7	bought	lemma: buy	pos: VERB	dep: acl:relcl	gov: 4	feats: Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin
+
+ 9 He is a teacher whom students really love
+1	He	lemma: he	pos: PRON	dep: nsubj	gov: 4	feats: Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+2	is	lemma: be	pos: AUX	dep: cop	gov: 4	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+3	a	lemma: a	pos: DET	dep: det	gov: 4	feats: Definite=Ind|PronType=Art
+4	teacher	lemma: teacher	pos: NOUN	dep: root	gov: 0	feats: Number=Sing
+5	whom	lemma: whom	pos: PRON	dep: obj	gov: 8	feats: PronType=Rel
+6	students	lemma: student	pos: NOUN	dep: nsubj	gov: 8	feats: Number=Plur
+7	really	lemma: really	pos: ADV	dep: advmod	gov: 8	feats: None
+8	love	lemma: love	pos: VERB	dep: acl:relcl	gov: 4	feats: Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+
+ 10 The accident happened as night was falling
+1	The	lemma: the	pos: DET	dep: det	gov: 2	feats: Definite=Def|PronType=Art
+2	accident	lemma: accident	pos: NOUN	dep: nsubj	gov: 3	feats: Number=Sing
+3	happened	lemma: happen	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+4	as	lemma: as	pos: SCONJ	dep: mark	gov: 7	feats: None
+5	night	lemma: night	pos: NOUN	dep: nsubj	gov: 7	feats: Number=Sing
+6	was	lemma: be	pos: AUX	dep: aux	gov: 7	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+7	falling	lemma: fall	pos: VERB	dep: advcl	gov: 3	feats: Tense=Pres|VerbForm=Part
+
+ 11 If you know who did it, you should tell the teacher
+1	If	lemma: if	pos: SCONJ	dep: mark	gov: 3	feats: None
+2	you	lemma: you	pos: PRON	dep: nsubj	gov: 3	feats: Case=Nom|Person=2|PronType=Prs
+3	know	lemma: know	pos: VERB	dep: advcl	gov: 10	feats: Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin
+4	who	lemma: who	pos: PRON	dep: nsubj	gov: 5	feats: PronType=Int
+5	did	lemma: do	pos: VERB	dep: ccomp	gov: 3	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+6	it	lemma: it	pos: PRON	dep: obj	gov: 5	feats: Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+7	,	lemma: ,	pos: PUNCT	dep: punct	gov: 10	feats: None
+8	you	lemma: you	pos: PRON	dep: nsubj	gov: 10	feats: Case=Nom|Person=2|PronType=Prs
+9	should	lemma: should	pos: AUX	dep: aux	gov: 10	feats: VerbForm=Fin
+10	tell	lemma: tell	pos: VERB	dep: root	gov: 0	feats: VerbForm=Inf
+11	the	lemma: the	pos: DET	dep: det	gov: 12	feats: Definite=Def|PronType=Art
+12	teacher	lemma: teacher	pos: NOUN	dep: obj	gov: 10	feats: Number=Sing
+
+ 12 He talked to him in order to secure the account
+1	He	lemma: he	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+2	talked	lemma: talk	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+3	to	lemma: to	pos: ADP	dep: case	gov: 4	feats: None
+4	him	lemma: he	pos: PRON	dep: obl	gov: 2	feats: Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+5	in	lemma: in	pos: SCONJ	dep: mark	gov: 8	feats: None
+6	order	lemma: order	pos: NOUN	dep: fixed	gov: 5	feats: Number=Sing
+7	to	lemma: to	pos: PART	dep: mark	gov: 8	feats: None
+8	secure	lemma: secure	pos: VERB	dep: advcl	gov: 2	feats: VerbForm=Inf
+9	the	lemma: the	pos: DET	dep: det	gov: 10	feats: Definite=Def|PronType=Art
+10	account	lemma: account	pos: NOUN	dep: obj	gov: 8	feats: Number=Sing
+
+ 13 He was upset when I talked to him
+1	He	lemma: he	pos: PRON	dep: nsubj	gov: 3	feats: Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+2	was	lemma: be	pos: AUX	dep: cop	gov: 3	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+3	upset	lemma: upset	pos: ADJ	dep: root	gov: 0	feats: Degree=Pos
+4	when	lemma: when	pos: SCONJ	dep: mark	gov: 6	feats: PronType=Int
+5	I	lemma: I	pos: PRON	dep: nsubj	gov: 6	feats: Case=Nom|Number=Sing|Person=1|PronType=Prs
+6	talked	lemma: talk	pos: VERB	dep: advcl	gov: 3	feats: Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin
+7	to	lemma: to	pos: ADP	dep: case	gov: 8	feats: None
+8	him	lemma: he	pos: PRON	dep: obl	gov: 6	feats: Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+
+ 14 They heard about you missing classes
+1	They	lemma: they	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Number=Plur|Person=3|PronType=Prs
+2	heard	lemma: hear	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+3	about	lemma: about	pos: SCONJ	dep: mark	gov: 5	feats: None
+4	you	lemma: you	pos: PRON	dep: nsubj	gov: 5	feats: Case=Acc|Person=2|PronType=Prs
+5	missing	lemma: miss	pos: VERB	dep: advcl	gov: 2	feats: VerbForm=Ger
+6	classes	lemma: class	pos: NOUN	dep: obj	gov: 5	feats: Number=Plur
+
+ 15 With the kids in school, I have plenty of free time
+1	With	lemma: with	pos: SCONJ	dep: mark	gov: 5	feats: None
+2	the	lemma: the	pos: DET	dep: det	gov: 3	feats: Definite=Def|PronType=Art
+3	kids	lemma: kid	pos: NOUN	dep: nsubj	gov: 5	feats: Number=Plur
+4	in	lemma: in	pos: ADP	dep: case	gov: 5	feats: None
+5	school	lemma: school	pos: NOUN	dep: advcl	gov: 8	feats: Number=Sing
+6	,	lemma: ,	pos: PUNCT	dep: punct	gov: 8	feats: None
+7	I	lemma: I	pos: PRON	dep: nsubj	gov: 8	feats: Case=Nom|Number=Sing|Person=1|PronType=Prs
+8	have	lemma: have	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+9	plenty	lemma: plenty	pos: NOUN	dep: obj	gov: 8	feats: Number=Sing
+10	of	lemma: of	pos: ADP	dep: case	gov: 12	feats: None
+11	free	lemma: free	pos: ADJ	dep: amod	gov: 12	feats: Degree=Pos
+12	time	lemma: time	pos: NOUN	dep: nmod	gov: 9	feats: Number=Sing
+
+ 16 She entered the room while sad
+1	She	lemma: she	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+2	entered	lemma: enter	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+3	the	lemma: the	pos: DET	dep: det	gov: 4	feats: Definite=Def|PronType=Art
+4	room	lemma: room	pos: NOUN	dep: obj	gov: 2	feats: Number=Sing
+5	while	lemma: while	pos: SCONJ	dep: mark	gov: 6	feats: None
+6	sad	lemma: sad	pos: ADJ	dep: advcl	gov: 2	feats: Degree=Pos
+
+ 17 She entered the room sad
+ 1	She	lemma: she	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+ 2	entered	lemma: enter	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ 3	the	lemma: the	pos: DET	dep: det	gov: 4	feats: Definite=Def|PronType=Art
+ 4	room	lemma: room	pos: NOUN	dep: obj	gov: 2	feats: Number=Sing
+ 5	sad	lemma: sad	pos: ADJ	dep: xcomp	gov: 2	feats: Degree=Pos
+
+ 18 Entering the room sad is not recommended
+1	Entering	lemma: enter	pos: VERB	dep: advcl	gov: 7	feats: VerbForm=Ger
+2	the	lemma: the	pos: DET	dep: det	gov: 3	feats: Definite=Def|PronType=Art
+3	room	lemma: room	pos: NOUN	dep: obj	gov: 1	feats: Number=Sing
+4	sad	lemma: sad	pos: ADJ	dep: advcl	gov: 1	feats: Degree=Pos
+5	is	lemma: be	pos: AUX	dep: aux:pass	gov: 7	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+6	not	lemma: not	pos: PART	dep: advmod	gov: 7	feats: None
+7	recommended	lemma: recommend	pos: VERB	dep: root	gov: 0	feats: Tense=Past|VerbForm=Part|Voice=Pass
+
+ 19 He was a teacher, although he no longer teaches
+1	He	lemma: he	pos: PRON	dep: nsubj	gov: 4	feats: Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+2	was	lemma: be	pos: AUX	dep: cop	gov: 4	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+3	a	lemma: a	pos: DET	dep: det	gov: 4	feats: Definite=Ind|PronType=Art
+4	teacher	lemma: teacher	pos: NOUN	dep: root	gov: 0	feats: Number=Sing
+5	,	lemma: ,	pos: PUNCT	dep: punct	gov: 4	feats: None
+6	although	lemma: although	pos: SCONJ	dep: mark	gov: 10	feats: None
+7	he	lemma: he	pos: PRON	dep: nsubj	gov: 10	feats: Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+8	no	lemma: no	pos: ADV	dep: advmod	gov: 9	feats: None
+9	longer	lemma: long	pos: ADV	dep: advmod	gov: 10	feats: Degree=Cmp
+10	teaches	lemma: teach	pos: VERB	dep: advcl	gov: 4	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+
+ 20 They sell genetically modified food less often
+1	They	lemma: they	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Number=Plur|Person=3|PronType=Prs
+2	sell	lemma: sell	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+3	genetically	lemma: genetically	pos: ADV	dep: advmod	gov: 4	feats: None
+4	modified	lemma: modify	pos: VERB	dep: amod	gov: 5	feats: Tense=Past|VerbForm=Part
+5	food	lemma: food	pos: NOUN	dep: obj	gov: 2	feats: Number=Sing
+6	less	lemma: less	pos: ADV	dep: advmod	gov: 7	feats: Degree=Cmp
+7	often	lemma: often	pos: ADV	dep: advmod	gov: 2	feats: None
+
+ 21 Where do you want to go later?
+ 1	Where	lemma: where	pos: ADV	dep: advmod	gov: 6	feats: PronType=Int
+ 2	do	lemma: do	pos: AUX	dep: aux	gov: 4	feats: Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin
+ 3	you	lemma: you	pos: PRON	dep: nsubj	gov: 4	feats: Case=Nom|Person=2|PronType=Prs
+ 4	want	lemma: want	pos: VERB	dep: root	gov: 0	feats: VerbForm=Inf
+ 5	to	lemma: to	pos: PART	dep: mark	gov: 6	feats: None
+ 6	go	lemma: go	pos: VERB	dep: xcomp	gov: 4	feats: VerbForm=Inf
+ 7	later	lemma: late	pos: ADV	dep: advmod	gov: 6	feats: Degree=Cmp
+ 8	?	lemma: ?	pos: PUNCT	dep: punct	gov: 4	feats: None
+
+ 22 About 200 people came to the party
+1	About	lemma: about	pos: ADV	dep: advmod	gov: 2	feats: None
+2	200	lemma: 200	pos: NUM	dep: nummod	gov: 3	feats: NumForm=Digit|NumType=Card
+3	people	lemma: people	pos: NOUN	dep: nsubj	gov: 4	feats: Number=Plur
+4	came	lemma: come	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+5	to	lemma: to	pos: ADP	dep: case	gov: 7	feats: None
+6	the	lemma: the	pos: DET	dep: det	gov: 7	feats: Definite=Def|PronType=Art
+7	party	lemma: party	pos: NOUN	dep: obl	gov: 4	feats: Number=Sing
+
+ 23 They sell books especially on Mondays
+1	They	lemma: they	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Number=Plur|Person=3|PronType=Prs
+2	sell	lemma: sell	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+3	books	lemma: book	pos: NOUN	dep: obj	gov: 2	feats: Number=Plur
+4	especially	lemma: especially	pos: ADV	dep: advmod	gov: 6	feats: None
+5	on	lemma: on	pos: ADP	dep: case	gov: 6	feats: None
+6	Mondays	lemma: Monday	pos: PROPN	dep: obl	gov: 2	feats: Number=Sing
+
+ 24 Only 15 percent voted for the candidate
+1	Only	lemma: only	pos: ADV	dep: advmod	gov: 2	feats: None
+2	15	lemma: 15	pos: NUM	dep: nummod	gov: 3	feats: NumForm=Digit|NumType=Card
+3	percent	lemma: percent	pos: NOUN	dep: nsubj	gov: 4	feats: Number=Sing
+4	voted	lemma: vote	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+5	for	lemma: for	pos: ADP	dep: case	gov: 7	feats: None
+6	the	lemma: the	pos: DET	dep: det	gov: 7	feats: Definite=Def|PronType=Art
+7	candidate	lemma: candidate	pos: NOUN	dep: obl	gov: 4	feats: Number=Sing
+
+ 25 He bends himself down
+1	He	lemma: he	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+2	bends	lemma: bend	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+3	himself	lemma: himself	pos: PRON	dep: obj	gov: 2	feats: Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes
+4	down	lemma: down	pos: ADV	dep: advmod	gov: 2	feats: None
+
+ 26 Sam eats large hot dogs
+1	Sam	lemma: Sam	pos: PROPN	dep: nsubj	gov: 2	feats: Number=Sing
+2	eats	lemma: eat	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+3	large	lemma: large	pos: ADJ	dep: amod	gov: 5	feats: Degree=Pos
+4	hot	lemma: hot	pos: ADJ	dep: amod	gov: 5	feats: Degree=Pos
+5	dogs	lemma: dog	pos: NOUN	dep: obj	gov: 2	feats: Number=Plur
+
+ 27 There is nothing wrong with it
+1	There	lemma: there	pos: PRON	dep: expl	gov: 2	feats: None
+2	is	lemma: be	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+3	nothing	lemma: nothing	pos: PRON	dep: nsubj	gov: 2	feats: Number=Sing
+4	wrong	lemma: wrong	pos: ADJ	dep: amod	gov: 3	feats: Degree=Pos
+5	with	lemma: with	pos: ADP	dep: case	gov: 6	feats: None
+6	it	lemma: it	pos: PRON	dep: obl	gov: 4	feats: Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+
+ 28 Sam, my brother, arrived
+1	Sam	lemma: Sam	pos: PROPN	dep: nsubj	gov: 6	feats: Number=Sing
+2	,	lemma: ,	pos: PUNCT	dep: punct	gov: 1	feats: None
+3	my	lemma: my	pos: PRON	dep: nmod:poss	gov: 4	feats: Number=Sing|Person=1|Poss=Yes|PronType=Prs
+4	brother	lemma: brother	pos: NOUN	dep: appos	gov: 1	feats: Number=Sing
+5	,	lemma: ,	pos: PUNCT	dep: punct	gov: 6	feats: None
+6	arrived	lemma: arrive	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+
+ 29 Bill (John's cousin) arrived
+1	Bill	lemma: Bill	pos: PROPN	dep: nsubj	gov: 7	feats: Number=Sing
+2	(	lemma: (	pos: PUNCT	dep: punct	gov: 5	feats: None
+3	John	lemma: John	pos: PROPN	dep: nmod:poss	gov: 5	feats: Number=Sing
+4	's	lemma: 's	pos: PART	dep: case	gov: 3	feats: None
+5	cousin	lemma: cousin	pos: NOUN	dep: appos	gov: 1	feats: Number=Sing
+6	)	lemma: )	pos: PUNCT	dep: punct	gov: 5	feats: None
+7	arrived	lemma: arrive	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+
+ 30 Sam, my brother, John's cousin, arrived
+1	Sam	lemma: Sam	pos: PROPN	dep: nsubj	gov: 10	feats: Number=Sing
+2	,	lemma: ,	pos: PUNCT	dep: punct	gov: 1	feats: None
+3	my	lemma: my	pos: PRON	dep: nmod:poss	gov: 4	feats: Number=Sing|Person=1|Poss=Yes|PronType=Prs
+4	brother	lemma: brother	pos: NOUN	dep: appos	gov: 1	feats: Number=Sing
+5	,	lemma: ,	pos: PUNCT	dep: punct	gov: 4	feats: None
+6	John	lemma: John	pos: PROPN	dep: nmod:poss	gov: 8	feats: Number=Sing
+7	's	lemma: 's	pos: PART	dep: case	gov: 6	feats: None
+8	cousin	lemma: cousin	pos: NOUN	dep: appos	gov: 1	feats: Number=Sing
+9	,	lemma: ,	pos: PUNCT	dep: punct	gov: 10	feats: None
+10	arrived	lemma: arrive	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+
+ 31 The Australian Broadcasting Corporation (ABC) won the award
+1	The	lemma: the	pos: DET	dep: det	gov: 4	feats: Definite=Def|PronType=Art
+2	Australian	lemma: Australian	pos: ADJ	dep: amod	gov: 4	feats: Degree=Pos
+3	Broadcasting	lemma: Broadcasting	pos: PROPN	dep: compound	gov: 4	feats: Number=Sing
+4	Corporation	lemma: Corporation	pos: PROPN	dep: nsubj	gov: 8	feats: Number=Sing
+5	(	lemma: (	pos: PUNCT	dep: punct	gov: 6	feats: None
+6	ABC	lemma: ABC	pos: PROPN	dep: appos	gov: 4	feats: Abbr=Yes|Number=Sing
+7	)	lemma: )	pos: PUNCT	dep: punct	gov: 6	feats: None
+8	won	lemma: win	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+9	the	lemma: the	pos: DET	dep: det	gov: 10	feats: Definite=Def|PronType=Art
+10	award	lemma: award	pos: NOUN	dep: obj	gov: 8	feats: Number=Sing
+
+ 32 The ABC (Australian Broadcasting Corporation) won the award
+1	The	lemma: the	pos: DET	dep: det	gov: 2	feats: Definite=Def|PronType=Art
+2	ABC	lemma: ABC	pos: PROPN	dep: nsubj	gov: 8	feats: Abbr=Yes|Number=Sing
+3	(	lemma: (	pos: PUNCT	dep: punct	gov: 6	feats: None
+4	Australian	lemma: Australian	pos: ADJ	dep: amod	gov: 6	feats: Degree=Pos
+5	Broadcasting	lemma: Broadcasting	pos: PROPN	dep: compound	gov: 6	feats: Number=Sing
+6	Corporation	lemma: Corporation	pos: PROPN	dep: appos	gov: 2	feats: Number=Sing
+7	)	lemma: )	pos: PUNCT	dep: punct	gov: 6	feats: None
+8	won	lemma: win	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+9	the	lemma: the	pos: DET	dep: det	gov: 10	feats: Definite=Def|PronType=Art
+10	award	lemma: award	pos: NOUN	dep: obj	gov: 8	feats: Number=Sing
+
+ 33 I met Paul Mnuchin, the senior Oregon state senator
+1	I	lemma: I	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Number=Sing|Person=1|PronType=Prs
+2	met	lemma: meet	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin
+3	Paul	lemma: Paul	pos: PROPN	dep: obj	gov: 2	feats: Number=Sing
+4	Mnuchin	lemma: Mnuchin	pos: PROPN	dep: flat	gov: 3	feats: Number=Sing
+5	,	lemma: ,	pos: PUNCT	dep: punct	gov: 3	feats: None
+6	the	lemma: the	pos: DET	dep: det	gov: 10	feats: Definite=Def|PronType=Art
+7	senior	lemma: senior	pos: ADJ	dep: amod	gov: 10	feats: Degree=Pos
+8	Oregon	lemma: Oregon	pos: PROPN	dep: compound	gov: 10	feats: Number=Sing
+9	state	lemma: state	pos: NOUN	dep: compound	gov: 10	feats: Number=Sing
+10	senator	lemma: senator	pos: NOUN	dep: appos	gov: 3	feats: Number=Sing
+
+ 34 The leader of the militant Lebanese Shiite group Hassan Nasrallah
+1	The	lemma: the	pos: DET	dep: det	gov: 2	feats: Definite=Def|PronType=Art
+2	leader	lemma: leader	pos: NOUN	dep: root	gov: 0	feats: Number=Sing
+3	of	lemma: of	pos: ADP	dep: case	gov: 8	feats: None
+4	the	lemma: the	pos: DET	dep: det	gov: 8	feats: Definite=Def|PronType=Art
+5	militant	lemma: militant	pos: ADJ	dep: amod	gov: 8	feats: Degree=Pos
+6	Lebanese	lemma: Lebanese	pos: ADJ	dep: amod	gov: 8	feats: Degree=Pos
+7	Shiite	lemma: Shiite	pos: ADJ	dep: amod	gov: 8	feats: Degree=Pos
+8	group	lemma: group	pos: NOUN	dep: nmod	gov: 2	feats: Number=Sing
+9	Hassan	lemma: Hassan	pos: PROPN	dep: appos	gov: 8	feats: Number=Sing
+10	Nasrallah	lemma: Nasrallah	pos: PROPN	dep: flat	gov: 9	feats: Number=Sing
+
+ 35 I met the French actor Gaspar Ulliel
+1	I	lemma: I	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Number=Sing|Person=1|PronType=Prs
+2	met	lemma: meet	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin
+3	the	lemma: the	pos: DET	dep: det	gov: 5	feats: Definite=Def|PronType=Art
+4	French	lemma: French	pos: ADJ	dep: amod	gov: 5	feats: Degree=Pos
+5	actor	lemma: actor	pos: NOUN	dep: obj	gov: 2	feats: Number=Sing
+6	Gaspar	lemma: Gaspar	pos: PROPN	dep: appos	gov: 5	feats: Number=Sing
+7	Ulliel	lemma: Ulliel	pos: PROPN	dep: flat	gov: 6	feats: Number=Sing
+
+ 36 I met French actor Gaspar Ulliel
+1	I	lemma: I	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Number=Sing|Person=1|PronType=Prs
+2	met	lemma: meet	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin
+3	French	lemma: French	pos: ADJ	dep: amod	gov: 4	feats: Degree=Pos
+4	actor	lemma: actor	pos: NOUN	dep: obj	gov: 2	feats: Number=Sing
+5	Gaspar	lemma: Gaspar	pos: PROPN	dep: flat	gov: 4	feats: Number=Sing
+6	Ulliel	lemma: Ulliel	pos: PROPN	dep: flat	gov: 4	feats: Number=Sing
+
+ 37 I met Gaspar Ulliel the French actor
+1	I	lemma: I	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Number=Sing|Person=1|PronType=Prs
+2	met	lemma: meet	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin
+3	Gaspar	lemma: Gaspar	pos: PROPN	dep: obj	gov: 2	feats: Number=Sing
+4	Ulliel	lemma: Ulliel	pos: PROPN	dep: flat	gov: 3	feats: Number=Sing
+5	the	lemma: the	pos: DET	dep: det	gov: 7	feats: Definite=Def|PronType=Art
+6	French	lemma: French	pos: ADJ	dep: amod	gov: 7	feats: Degree=Pos
+7	actor	lemma: actor	pos: NOUN	dep: appos	gov: 3	feats: Number=Sing
+
+ 38 I met Gaspar Ulliel, the French actor
+1	I	lemma: I	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Number=Sing|Person=1|PronType=Prs
+2	met	lemma: meet	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin
+3	Gaspar	lemma: Gaspar	pos: PROPN	dep: obj	gov: 2	feats: Number=Sing
+4	Ulliel	lemma: Ulliel	pos: PROPN	dep: flat	gov: 3	feats: Number=Sing
+5	,	lemma: ,	pos: PUNCT	dep: punct	gov: 3	feats: None
+6	the	lemma: the	pos: DET	dep: det	gov: 8	feats: Definite=Def|PronType=Art
+7	French	lemma: French	pos: ADJ	dep: amod	gov: 8	feats: Degree=Pos
+8	actor	lemma: actor	pos: NOUN	dep: appos	gov: 3	feats: Number=Sing
+
+ 39 You can chose between four subjects, language (English or French), economy, technology and art
+1	You	lemma: you	pos: PRON	dep: nsubj	gov: 3	feats: Case=Nom|Person=2|PronType=Prs
+2	can	lemma: can	pos: AUX	dep: aux	gov: 3	feats: VerbForm=Fin
+3	chose	lemma: choose	pos: VERB	dep: root	gov: 0	feats: VerbForm=Inf
+4	between	lemma: between	pos: ADP	dep: case	gov: 6	feats: None
+5	four	lemma: four	pos: NUM	dep: nummod	gov: 6	feats: NumForm=Word|NumType=Card
+6	subjects	lemma: subject	pos: NOUN	dep: obl	gov: 3	feats: Number=Plur
+7	,	lemma: ,	pos: PUNCT	dep: punct	gov: 8	feats: None
+8	language	lemma: language	pos: NOUN	dep: appos	gov: 6	feats: Number=Sing
+9	(	lemma: (	pos: PUNCT	dep: punct	gov: 10	feats: None
+10	English	lemma: English	pos: ADJ	dep: appos	gov: 8	feats: Degree=Pos
+11	or	lemma: or	pos: CCONJ	dep: cc	gov: 12	feats: None
+12	French	lemma: French	pos: ADJ	dep: conj	gov: 10	feats: Degree=Pos
+13	)	lemma: )	pos: PUNCT	dep: punct	gov: 10	feats: None
+14	,	lemma: ,	pos: PUNCT	dep: punct	gov: 15	feats: None
+15	economy	lemma: economy	pos: NOUN	dep: conj	gov: 8	feats: Number=Sing
+16	,	lemma: ,	pos: PUNCT	dep: punct	gov: 17	feats: None
+17	technology	lemma: technology	pos: NOUN	dep: conj	gov: 8	feats: Number=Sing
+18	and	lemma: and	pos: CCONJ	dep: cc	gov: 19	feats: None
+19	art	lemma: art	pos: NOUN	dep: conj	gov: 8	feats: Number=Sing
+
+ 40 Steve Jones phone: 555-9814 Email: jones@abc.edf
+1	Steve	lemma: Steve	pos: PROPN	dep: root	gov: 0	feats: Number=Sing
+2	Jones	lemma: Jones	pos: PROPN	dep: flat	gov: 1	feats: Number=Sing
+3	phone	lemma: phone	pos: NOUN	dep: list	gov: 1	feats: Number=Sing
+4	:	lemma: :	pos: PUNCT	dep: punct	gov: 3	feats: None
+5	555-9814	lemma: 555-9814	pos: NUM	dep: appos	gov: 3	feats: NumForm=Digit|NumType=Card
+6	Email	lemma: email	pos: NOUN	dep: list	gov: 1	feats: Number=Sing
+7	:	lemma: :	pos: PUNCT	dep: punct	gov: 6	feats: None
+8	jones@abc.edf	lemma: jones@abc.edf	pos: X	dep: appos	gov: 6	feats: None
+
+ 41 Reagan has died
+1	Reagan	lemma: Reagan	pos: PROPN	dep: nsubj	gov: 3	feats: Number=Sing
+2	has	lemma: have	pos: AUX	dep: aux	gov: 3	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+3	died	lemma: die	pos: VERB	dep: root	gov: 0	feats: Tense=Past|VerbForm=Part
+
+ 42 He should leave
+1	He	lemma: he	pos: PRON	dep: nsubj	gov: 3	feats: Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+2	should	lemma: should	pos: AUX	dep: aux	gov: 3	feats: VerbForm=Fin
+3	leave	lemma: leave	pos: VERB	dep: root	gov: 0	feats: VerbForm=Inf
+
+ 43 Do you think he would have left by the time we come
+1	Do	lemma: do	pos: AUX	dep: aux	gov: 3	feats: Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin
+2	you	lemma: you	pos: PRON	dep: nsubj	gov: 3	feats: Case=Nom|Person=2|PronType=Prs
+3	think	lemma: think	pos: VERB	dep: root	gov: 0	feats: VerbForm=Inf
+4	he	lemma: he	pos: PRON	dep: nsubj	gov: 7	feats: Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+5	would	lemma: would	pos: AUX	dep: aux	gov: 7	feats: VerbForm=Fin
+6	have	lemma: have	pos: AUX	dep: aux	gov: 7	feats: VerbForm=Inf
+7	left	lemma: leave	pos: VERB	dep: ccomp	gov: 3	feats: Tense=Past|VerbForm=Part
+8	by	lemma: by	pos: ADP	dep: case	gov: 10	feats: None
+9	the	lemma: the	pos: DET	dep: det	gov: 10	feats: Definite=Def|PronType=Art
+10	time	lemma: time	pos: NOUN	dep: obl	gov: 7	feats: Number=Sing
+11	we	lemma: we	pos: PRON	dep: nsubj	gov: 12	feats: Case=Nom|Number=Plur|Person=1|PronType=Prs
+12	come	lemma: come	pos: VERB	dep: acl:relcl	gov: 10	feats: Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+
+ 44 Kennedy was killed
+1	Kennedy	lemma: Kennedy	pos: PROPN	dep: nsubj:pass	gov: 3	feats: Number=Sing
+2	was	lemma: be	pos: AUX	dep: aux:pass	gov: 3	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+3	killed	lemma: kill	pos: VERB	dep: root	gov: 0	feats: Tense=Past|VerbForm=Part|Voice=Pass
+
+ 45 Kennedy will be killed
+1	Kennedy	lemma: Kennedy	pos: PROPN	dep: nsubj:pass	gov: 4	feats: Number=Sing
+2	will	lemma: will	pos: AUX	dep: aux	gov: 4	feats: VerbForm=Fin
+3	be	lemma: be	pos: AUX	dep: aux:pass	gov: 4	feats: VerbForm=Inf
+4	killed	lemma: kill	pos: VERB	dep: root	gov: 0	feats: Tense=Past|VerbForm=Part|Voice=Pass
+
+ 46 Kennedy did not anticipate that his fate was to be killed
+1	Kennedy	lemma: Kennedy	pos: PROPN	dep: nsubj	gov: 4	feats: Number=Sing
+2	did	lemma: do	pos: AUX	dep: aux	gov: 4	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+3	not	lemma: not	pos: PART	dep: advmod	gov: 4	feats: None
+4	anticipate	lemma: anticipate	pos: VERB	dep: root	gov: 0	feats: VerbForm=Inf
+5	that	lemma: that	pos: SCONJ	dep: mark	gov: 11	feats: None
+6	his	lemma: he	pos: PRON	dep: nmod:poss	gov: 7	feats: Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+7	fate	lemma: fate	pos: NOUN	dep: nsubj:outer	gov: 11	feats: Number=Sing
+8	was	lemma: be	pos: VERB	dep: cop	gov: 11	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+9	to	lemma: to	pos: PART	dep: mark	gov: 11	feats: None
+10	be	lemma: be	pos: AUX	dep: aux:pass	gov: 11	feats: VerbForm=Inf
+11	killed	lemma: kill	pos: VERB	dep: ccomp	gov: 4	feats: Tense=Past|VerbForm=Part|Voice=Pass
+
+ 47 Contract was signed at the White House
+1	Contract	lemma: contract	pos: NOUN	dep: nsubj:pass	gov: 3	feats: Number=Sing
+2	was	lemma: be	pos: AUX	dep: aux:pass	gov: 3	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+3	signed	lemma: sign	pos: VERB	dep: root	gov: 0	feats: Tense=Past|VerbForm=Part|Voice=Pass
+4	at	lemma: at	pos: ADP	dep: case	gov: 7	feats: None
+5	the	lemma: the	pos: DET	dep: det	gov: 7	feats: Definite=Def|PronType=Art
+6	White	lemma: White	pos: ADJ	dep: amod	gov: 7	feats: Degree=Pos
+7	House	lemma: House	pos: PROPN	dep: obl	gov: 3	feats: Number=Sing
+
+ 48 We went to the Chair's office
+1	We	lemma: we	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Number=Plur|Person=1|PronType=Prs
+2	went	lemma: go	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin
+3	to	lemma: to	pos: ADP	dep: case	gov: 7	feats: None
+4	the	lemma: the	pos: DET	dep: det	gov: 5	feats: Definite=Def|PronType=Art
+5	Chair	lemma: chair	pos: PROPN	dep: nmod:poss	gov: 7	feats: Number=Sing
+6	's	lemma: 's	pos: PART	dep: case	gov: 5	feats: None
+7	office	lemma: office	pos: NOUN	dep: obl	gov: 2	feats: Number=Sing
+
+ 49 We wen to the office of the Chair
+1	We	lemma: we	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Number=Plur|Person=1|PronType=Prs
+2	wen	lemma: wen	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+3	to	lemma: to	pos: ADP	dep: case	gov: 5	feats: None
+4	the	lemma: the	pos: DET	dep: det	gov: 5	feats: Definite=Def|PronType=Art
+5	office	lemma: office	pos: NOUN	dep: obl	gov: 2	feats: Number=Sing
+6	of	lemma: of	pos: ADP	dep: case	gov: 8	feats: None
+7	the	lemma: the	pos: DET	dep: det	gov: 8	feats: Definite=Def|PronType=Art
+8	Chair	lemma: chair	pos: NOUN	dep: nmod	gov: 5	feats: Number=Sing
+
+ 50 Sue left after the rehearsal
+1	Sue	lemma: Sue	pos: PROPN	dep: nsubj	gov: 2	feats: Number=Sing
+2	left	lemma: leave	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+3	after	lemma: after	pos: ADP	dep: case	gov: 5	feats: None
+4	the	lemma: the	pos: DET	dep: det	gov: 5	feats: Definite=Def|PronType=Art
+5	rehearsal	lemma: rehearsal	pos: NOUN	dep: obl	gov: 2	feats: Number=Sing
+
+ 51 Give the toys to the children
+1	Give	lemma: give	pos: VERB	dep: root	gov: 0	feats: Mood=Imp|VerbForm=Fin
+2	the	lemma: the	pos: DET	dep: det	gov: 3	feats: Definite=Def|PronType=Art
+3	toys	lemma: toy	pos: NOUN	dep: obj	gov: 1	feats: Number=Plur
+4	to	lemma: to	pos: ADP	dep: case	gov: 6	feats: None
+5	the	lemma: the	pos: DET	dep: det	gov: 6	feats: Definite=Def|PronType=Art
+6	children	lemma: child	pos: NOUN	dep: obl	gov: 1	feats: Number=Plur
+
+ 52 Sue is in shape
+1	Sue	lemma: Sue	pos: PROPN	dep: nsubj	gov: 4	feats: Number=Sing
+2	is	lemma: be	pos: AUX	dep: cop	gov: 4	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+3	in	lemma: in	pos: ADP	dep: case	gov: 4	feats: None
+4	shape	lemma: shape	pos: NOUN	dep: root	gov: 0	feats: Number=Sing
+
+ 53 Out of all this, something good will come
+1	Out	lemma: out	pos: ADP	dep: case	gov: 4	feats: None
+2	of	lemma: of	pos: ADP	dep: fixed	gov: 1	feats: None
+3	all	lemma: all	pos: DET	dep: det:predet	gov: 4	feats: None
+4	this	lemma: this	pos: PRON	dep: obl	gov: 9	feats: Number=Sing|PronType=Dem
+5	,	lemma: ,	pos: PUNCT	dep: punct	gov: 9	feats: None
+6	something	lemma: something	pos: PRON	dep: nsubj	gov: 9	feats: Number=Sing
+7	good	lemma: good	pos: ADJ	dep: amod	gov: 6	feats: Degree=Pos
+8	will	lemma: will	pos: AUX	dep: aux	gov: 9	feats: VerbForm=Fin
+9	come	lemma: come	pos: VERB	dep: root	gov: 0	feats: VerbForm=Inf
+
+ 54 We drink milk except after dinner
+1	We	lemma: we	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Number=Plur|Person=1|PronType=Prs
+2	drink	lemma: drink	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+3	milk	lemma: milk	pos: NOUN	dep: obj	gov: 2	feats: Number=Sing
+4	except	lemma: except	pos: ADP	dep: case	gov: 6	feats: None
+5	after	lemma: after	pos: ADP	dep: case	gov: 6	feats: None
+6	dinner	lemma: dinner	pos: NOUN	dep: obl	gov: 2	feats: Number=Sing
+
+ 55 Bill is big and honest
+1	Bill	lemma: Bill	pos: PROPN	dep: nsubj	gov: 3	feats: Number=Sing
+2	is	lemma: be	pos: AUX	dep: cop	gov: 3	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+3	big	lemma: big	pos: ADJ	dep: root	gov: 0	feats: Degree=Pos
+4	and	lemma: and	pos: CCONJ	dep: cc	gov: 5	feats: None
+5	honest	lemma: honest	pos: ADJ	dep: conj	gov: 3	feats: Degree=Pos
+
+ 56 And then we left
+1	And	lemma: and	pos: CCONJ	dep: cc	gov: 4	feats: None
+2	then	lemma: then	pos: ADV	dep: advmod	gov: 4	feats: PronType=Dem
+3	we	lemma: we	pos: PRON	dep: nsubj	gov: 4	feats: Case=Nom|Number=Plur|Person=1|PronType=Prs
+4	left	lemma: leave	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin
+
+ 57 We have apples, pears, oranges and bananas
+1	We	lemma: we	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Number=Plur|Person=1|PronType=Prs
+2	have	lemma: have	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+3	apples	lemma: apple	pos: NOUN	dep: obj	gov: 2	feats: Number=Plur
+4	,	lemma: ,	pos: PUNCT	dep: punct	gov: 5	feats: None
+5	pears	lemma: pear	pos: NOUN	dep: conj	gov: 3	feats: Number=Plur
+6	,	lemma: ,	pos: PUNCT	dep: punct	gov: 7	feats: None
+7	oranges	lemma: orange	pos: NOUN	dep: conj	gov: 3	feats: Number=Plur
+8	and	lemma: and	pos: CCONJ	dep: cc	gov: 9	feats: None
+9	bananas	lemma: banana	pos: NOUN	dep: conj	gov: 3	feats: Number=Plur
+
+ 58 Both the boys and the girls are here
+1	Both	lemma: both	pos: CCONJ	dep: cc:preconj	gov: 3	feats: None
+2	the	lemma: the	pos: DET	dep: det	gov: 3	feats: Definite=Def|PronType=Art
+3	boys	lemma: boy	pos: NOUN	dep: nsubj	gov: 8	feats: Number=Plur
+4	and	lemma: and	pos: CCONJ	dep: cc	gov: 6	feats: None
+5	the	lemma: the	pos: DET	dep: det	gov: 6	feats: Definite=Def|PronType=Art
+6	girls	lemma: girl	pos: NOUN	dep: conj	gov: 3	feats: Number=Plur
+7	are	lemma: be	pos: AUX	dep: cop	gov: 8	feats: Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+8	here	lemma: here	pos: ADV	dep: root	gov: 0	feats: PronType=Dem
+
+ 59 He says that you like to swim
+1	He	lemma: he	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+2	says	lemma: say	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+3	that	lemma: that	pos: SCONJ	dep: mark	gov: 5	feats: None
+4	you	lemma: you	pos: PRON	dep: nsubj	gov: 5	feats: Case=Nom|Person=2|PronType=Prs
+5	like	lemma: like	pos: VERB	dep: ccomp	gov: 2	feats: Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin
+6	to	lemma: to	pos: PART	dep: mark	gov: 7	feats: None
+7	swim	lemma: swim	pos: VERB	dep: xcomp	gov: 5	feats: VerbForm=Inf
+
+ 60 He says you like to swim
+1	He	lemma: he	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+2	says	lemma: say	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+3	you	lemma: you	pos: PRON	dep: nsubj	gov: 4	feats: Case=Nom|Person=2|PronType=Prs
+4	like	lemma: like	pos: VERB	dep: ccomp	gov: 2	feats: Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin
+5	to	lemma: to	pos: PART	dep: mark	gov: 6	feats: None
+6	swim	lemma: swim	pos: VERB	dep: xcomp	gov: 4	feats: VerbForm=Inf
+
+ 61 The boss said to start digging
+1	The	lemma: the	pos: DET	dep: det	gov: 2	feats: Definite=Def|PronType=Art
+2	boss	lemma: boss	pos: NOUN	dep: nsubj	gov: 3	feats: Number=Sing
+3	said	lemma: say	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+4	to	lemma: to	pos: PART	dep: mark	gov: 5	feats: None
+5	start	lemma: start	pos: VERB	dep: ccomp	gov: 3	feats: VerbForm=Inf
+6	digging	lemma: dig	pos: VERB	dep: xcomp	gov: 5	feats: VerbForm=Ger
+
+ 62 He said that he knew the muffin man
+1	He	lemma: he	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+2	said	lemma: say	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+3	that	lemma: that	pos: SCONJ	dep: mark	gov: 5	feats: None
+4	he	lemma: he	pos: PRON	dep: nsubj	gov: 5	feats: Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+5	knew	lemma: know	pos: VERB	dep: ccomp	gov: 2	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+6	the	lemma: the	pos: DET	dep: det	gov: 8	feats: Definite=Def|PronType=Art
+7	muffin	lemma: muffin	pos: NOUN	dep: compound	gov: 8	feats: Number=Sing
+8	man	lemma: man	pos: NOUN	dep: obj	gov: 5	feats: Number=Sing
+
+ 63 I asked: "do you know the muffin man?"
+1	I	lemma: I	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Number=Sing|Person=1|PronType=Prs
+2	asked	lemma: ask	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin
+3	:	lemma: :	pos: PUNCT	dep: punct	gov: 2	feats: None
+4	"	lemma: "	pos: PUNCT	dep: punct	gov: 2	feats: None
+5	do	lemma: do	pos: AUX	dep: aux	gov: 7	feats: Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin
+6	you	lemma: you	pos: PRON	dep: nsubj	gov: 7	feats: Case=Nom|Person=2|PronType=Prs
+7	know	lemma: know	pos: VERB	dep: ccomp	gov: 2	feats: VerbForm=Inf
+8	the	lemma: the	pos: DET	dep: det	gov: 10	feats: Definite=Def|PronType=Art
+9	muffin	lemma: muffin	pos: NOUN	dep: compound	gov: 10	feats: Number=Sing
+10	man	lemma: man	pos: NOUN	dep: obj	gov: 7	feats: Number=Sing
+11	?	lemma: ?	pos: PUNCT	dep: punct	gov: 2	feats: None
+12	"	lemma: "	pos: PUNCT	dep: punct	gov: 2	feats: None
+
+ 64 "Do you know the muffin man?" I asked
+1	"	lemma: "	pos: PUNCT	dep: punct	gov: 4	feats: None
+2	Do	lemma: do	pos: AUX	dep: aux	gov: 4	feats: Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin
+3	you	lemma: you	pos: PRON	dep: nsubj	gov: 4	feats: Case=Nom|Person=2|PronType=Prs
+4	know	lemma: know	pos: VERB	dep: ccomp	gov: 11	feats: VerbForm=Inf
+5	the	lemma: the	pos: DET	dep: det	gov: 7	feats: Definite=Def|PronType=Art
+6	muffin	lemma: muffin	pos: NOUN	dep: compound	gov: 7	feats: Number=Sing
+7	man	lemma: man	pos: NOUN	dep: obj	gov: 4	feats: Number=Sing
+8	?	lemma: ?	pos: PUNCT	dep: punct	gov: 4	feats: None
+9	"	lemma: "	pos: PUNCT	dep: punct	gov: 4	feats: None
+10	I	lemma: I	pos: PRON	dep: nsubj	gov: 11	feats: Case=Nom|Number=Sing|Person=1|PronType=Prs
+11	asked	lemma: ask	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin
+
+ 65 "I hoped to remain anonymous", said the muffin man
+1	"	lemma: "	pos: PUNCT	dep: punct	gov: 9	feats: None
+2	I	lemma: I	pos: PRON	dep: nsubj	gov: 3	feats: Case=Nom|Number=Sing|Person=1|PronType=Prs
+3	hoped	lemma: hope	pos: VERB	dep: ccomp	gov: 9	feats: Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin
+4	to	lemma: to	pos: PART	dep: mark	gov: 5	feats: None
+5	remain	lemma: remain	pos: VERB	dep: xcomp	gov: 3	feats: VerbForm=Inf
+6	anonymous	lemma: anonymous	pos: ADJ	dep: xcomp	gov: 5	feats: Degree=Pos
+7	"	lemma: "	pos: PUNCT	dep: punct	gov: 3	feats: None
+8	,	lemma: ,	pos: PUNCT	dep: punct	gov: 9	feats: None
+9	said	lemma: say	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+10	the	lemma: the	pos: DET	dep: det	gov: 12	feats: Definite=Def|PronType=Art
+11	muffin	lemma: muffin	pos: NOUN	dep: compound	gov: 12	feats: Number=Sing
+12	man	lemma: man	pos: NOUN	dep: nsubj	gov: 9	feats: Number=Sing
+
+ 66 "Three muffins", he answered
+1	"	lemma: "	pos: PUNCT	dep: punct	gov: 3	feats: None
+2	Three	lemma: three	pos: NUM	dep: nummod	gov: 3	feats: NumForm=Word|NumType=Card
+3	muffins	lemma: muffin	pos: NOUN	dep: ccomp	gov: 7	feats: Number=Plur
+4	"	lemma: "	pos: PUNCT	dep: punct	gov: 3	feats: None
+5	,	lemma: ,	pos: PUNCT	dep: punct	gov: 3	feats: None
+6	he	lemma: he	pos: PRON	dep: nsubj	gov: 7	feats: Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+7	answered	lemma: answer	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+
+ 67 I mentioned it to Mary that Sue is leaving
+1	I	lemma: I	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Number=Sing|Person=1|PronType=Prs
+2	mentioned	lemma: mention	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin
+3	it	lemma: it	pos: PRON	dep: obj	gov: 2	feats: Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+4	to	lemma: to	pos: ADP	dep: case	gov: 5	feats: None
+5	Mary	lemma: Mary	pos: PROPN	dep: obl	gov: 2	feats: Number=Sing
+6	that	lemma: that	pos: SCONJ	dep: mark	gov: 9	feats: None
+7	Sue	lemma: Sue	pos: PROPN	dep: nsubj	gov: 9	feats: Number=Sing
+8	is	lemma: be	pos: AUX	dep: aux	gov: 9	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+9	leaving	lemma: leave	pos: VERB	dep: ccomp	gov: 2	feats: Tense=Pres|VerbForm=Part
+
+ 68 I took the phone book
+1	I	lemma: I	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Number=Sing|Person=1|PronType=Prs
+2	took	lemma: take	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin
+3	the	lemma: the	pos: DET	dep: det	gov: 5	feats: Definite=Def|PronType=Art
+4	phone	lemma: phone	pos: NOUN	dep: compound	gov: 5	feats: Number=Sing
+5	book	lemma: book	pos: NOUN	dep: obj	gov: 2	feats: Number=Sing
+
+ 69 There were many ice cream flavors
+1	There	lemma: there	pos: PRON	dep: expl	gov: 2	feats: None
+2	were	lemma: be	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+3	many	lemma: many	pos: ADJ	dep: amod	gov: 6	feats: Degree=Pos
+4	ice	lemma: ice	pos: NOUN	dep: compound	gov: 5	feats: Number=Sing
+5	cream	lemma: cream	pos: NOUN	dep: compound	gov: 6	feats: Number=Sing
+6	flavors	lemma: flavor	pos: NOUN	dep: nsubj	gov: 2	feats: Number=Plur
+
+ 70 Sam took out a 3 million dollar loan
+1	Sam	lemma: Sam	pos: PROPN	dep: nsubj	gov: 2	feats: Number=Sing
+2	took	lemma: take	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+3	out	lemma: out	pos: ADP	dep: compound:prt	gov: 2	feats: None
+4	a	lemma: a	pos: DET	dep: det	gov: 8	feats: Definite=Ind|PronType=Art
+5	3	lemma: 3	pos: NUM	dep: nummod	gov: 6	feats: NumForm=Digit|NumType=Card
+6	million	lemma: million	pos: NUM	dep: nummod	gov: 7	feats: NumForm=Word|NumType=Card
+7	dollar	lemma: dollar	pos: NOUN	dep: compound	gov: 8	feats: Number=Sing
+8	loan	lemma: loan	pos: NOUN	dep: obj	gov: 2	feats: Number=Sing
+
+ 71 Sam took out a $3 million loan
+1	Sam	lemma: Sam	pos: PROPN	dep: nsubj	gov: 2	feats: Number=Sing
+2	took	lemma: take	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+3	out	lemma: out	pos: ADP	dep: compound:prt	gov: 2	feats: None
+4	a	lemma: a	pos: DET	dep: det	gov: 8	feats: Definite=Ind|PronType=Art
+5	$	lemma: $	pos: SYM	dep: compound	gov: 8	feats: None
+6	3	lemma: 3	pos: NUM	dep: compound	gov: 7	feats: NumForm=Digit|NumType=Card
+7	million	lemma: million	pos: NUM	dep: nummod	gov: 5	feats: NumForm=Word|NumType=Card
+8	loan	lemma: loan	pos: NOUN	dep: obj	gov: 2	feats: Number=Sing
+
+ 72 They shut down the station
+1	They	lemma: they	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Number=Plur|Person=3|PronType=Prs
+2	shut	lemma: shut	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+3	down	lemma: down	pos: ADP	dep: compound:prt	gov: 2	feats: None
+4	the	lemma: the	pos: DET	dep: det	gov: 5	feats: Definite=Def|PronType=Art
+5	station	lemma: station	pos: NOUN	dep: obj	gov: 2	feats: Number=Sing
+
+ 73 They shut the station down
+1	They	lemma: they	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Number=Plur|Person=3|PronType=Prs
+2	shut	lemma: shut	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+3	the	lemma: the	pos: DET	dep: det	gov: 4	feats: Definite=Def|PronType=Art
+4	station	lemma: station	pos: NOUN	dep: obj	gov: 2	feats: Number=Sing
+5	down	lemma: down	pos: ADP	dep: compound:prt	gov: 2	feats: None
+
+ 74 The dentist pulled out the tooth
+1	The	lemma: the	pos: DET	dep: det	gov: 2	feats: Definite=Def|PronType=Art
+2	dentist	lemma: dentist	pos: NOUN	dep: nsubj	gov: 3	feats: Number=Sing
+3	pulled	lemma: pull	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+4	out	lemma: out	pos: ADP	dep: compound:prt	gov: 3	feats: None
+5	the	lemma: the	pos: DET	dep: det	gov: 6	feats: Definite=Def|PronType=Art
+6	tooth	lemma: tooth	pos: NOUN	dep: obj	gov: 3	feats: Number=Sing
+
+ 75 The dentist pulled the tooth out
+1	The	lemma: the	pos: DET	dep: det	gov: 2	feats: Definite=Def|PronType=Art
+2	dentist	lemma: dentist	pos: NOUN	dep: nsubj	gov: 3	feats: Number=Sing
+3	pulled	lemma: pull	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+4	the	lemma: the	pos: DET	dep: det	gov: 5	feats: Definite=Def|PronType=Art
+5	tooth	lemma: tooth	pos: NOUN	dep: obj	gov: 3	feats: Number=Sing
+6	out	lemma: out	pos: ADP	dep: compound:prt	gov: 3	feats: None
+
+ 76 He came home, took a shower and immediately went to bed
+ 1	He	lemma: he	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+ 2	came	lemma: come	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ 3	home	lemma: home	pos: ADV	dep: advmod	gov: 2	feats: None
+ 4	,	lemma: ,	pos: PUNCT	dep: punct	gov: 5	feats: None
+ 5	took	lemma: take	pos: VERB	dep: conj	gov: 2	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ 6	a	lemma: a	pos: DET	dep: det	gov: 7	feats: Definite=Ind|PronType=Art
+ 7	shower	lemma: shower	pos: NOUN	dep: obj	gov: 5	feats: Number=Sing
+ 8	and	lemma: and	pos: CCONJ	dep: cc	gov: 10	feats: None
+ 9	immediately	lemma: immediately	pos: ADV	dep: advmod	gov: 10	feats: None
+ 10	went	lemma: go	pos: VERB	dep: conj	gov: 2	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+ 11	to	lemma: to	pos: ADP	dep: case	gov: 12	feats: None
+ 12	bed	lemma: bed	pos: NOUN	dep: obl	gov: 10	feats: Number=Sing
+
+ 77 He met her at the station and kissed her
+1	He	lemma: he	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+2	met	lemma: meet	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+3	her	lemma: she	pos: PRON	dep: obj	gov: 2	feats: Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+4	at	lemma: at	pos: ADP	dep: case	gov: 6	feats: None
+5	the	lemma: the	pos: DET	dep: det	gov: 6	feats: Definite=Def|PronType=Art
+6	station	lemma: station	pos: NOUN	dep: obl	gov: 2	feats: Number=Sing
+7	and	lemma: and	pos: CCONJ	dep: cc	gov: 8	feats: None
+8	kissed	lemma: kiss	pos: VERB	dep: conj	gov: 2	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+9	her	lemma: she	pos: PRON	dep: obj	gov: 8	feats: Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+
+ 78 He met her at the station and she kissed him
+1	He	lemma: he	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+2	met	lemma: meet	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+3	her	lemma: she	pos: PRON	dep: obj	gov: 2	feats: Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+4	at	lemma: at	pos: ADP	dep: case	gov: 6	feats: None
+5	the	lemma: the	pos: DET	dep: det	gov: 6	feats: Definite=Def|PronType=Art
+6	station	lemma: station	pos: NOUN	dep: obl	gov: 2	feats: Number=Sing
+7	and	lemma: and	pos: CCONJ	dep: cc	gov: 9	feats: None
+8	she	lemma: she	pos: PRON	dep: nsubj	gov: 9	feats: Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+9	kissed	lemma: kiss	pos: VERB	dep: conj	gov: 2	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+10	him	lemma: he	pos: PRON	dep: obj	gov: 9	feats: Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+
+ 79 We have apples, pears, etc
+1	We	lemma: we	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Number=Plur|Person=1|PronType=Prs
+2	have	lemma: have	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+3	apples	lemma: apple	pos: NOUN	dep: obj	gov: 2	feats: Number=Plur
+4	,	lemma: ,	pos: PUNCT	dep: punct	gov: 5	feats: None
+5	pears	lemma: pear	pos: NOUN	dep: conj	gov: 3	feats: Number=Plur
+6	,	lemma: ,	pos: PUNCT	dep: punct	gov: 7	feats: None
+7	etc	lemma: etc	pos: X	dep: conj	gov: 3	feats: None
+
+ 80 People were running, jumping, dancing, etc. all around us
+1	People	lemma: person	pos: NOUN	dep: nsubj	gov: 3	feats: Number=Plur
+2	were	lemma: be	pos: AUX	dep: aux	gov: 3	feats: Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+3	running	lemma: run	pos: VERB	dep: root	gov: 0	feats: Tense=Pres|VerbForm=Part
+4	,	lemma: ,	pos: PUNCT	dep: punct	gov: 5	feats: None
+5	jumping	lemma: jump	pos: VERB	dep: conj	gov: 3	feats: Tense=Pres|VerbForm=Part
+6	,	lemma: ,	pos: PUNCT	dep: punct	gov: 7	feats: None
+7	dancing	lemma: dancing	pos: NOUN	dep: conj	gov: 3	feats: Number=Sing
+8	,	lemma: ,	pos: PUNCT	dep: punct	gov: 9	feats: None
+9	etc.	lemma: etc.	pos: X	dep: conj	gov: 3	feats: None
+10	all	lemma: all	pos: ADV	dep: advmod	gov: 12	feats: None
+11	around	lemma: around	pos: ADP	dep: case	gov: 12	feats: None
+12	us	lemma: we	pos: PRON	dep: obl	gov: 3	feats: Case=Acc|Number=Plur|Person=1|PronType=Prs
+
+ 81 They gave Amy an apple, Bob a banana, Carl a carrot, etc
+1	They	lemma: they	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Number=Plur|Person=3|PronType=Prs
+2	gave	lemma: give	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+3	Amy	lemma: Amy	pos: PROPN	dep: iobj	gov: 2	feats: Number=Sing
+4	an	lemma: a	pos: DET	dep: det	gov: 5	feats: Definite=Ind|PronType=Art
+5	apple	lemma: apple	pos: NOUN	dep: obj	gov: 2	feats: Number=Sing
+6	,	lemma: ,	pos: PUNCT	dep: punct	gov: 7	feats: None
+7	Bob	lemma: Bob	pos: PROPN	dep: orphan	gov: 9	feats: Number=Sing
+8	a	lemma: a	pos: DET	dep: det	gov: 9	feats: Definite=Ind|PronType=Art
+9	banana	lemma: banana	pos: NOUN	dep: conj	gov: 1	feats: Number=Sing
+10	,	lemma: ,	pos: PUNCT	dep: punct	gov: 11	feats: None
+11	Carl	lemma: Carl	pos: PROPN	dep: orphan	gov: 13	feats: Number=Sing
+12	a	lemma: a	pos: DET	dep: det	gov: 13	feats: Definite=Ind|PronType=Art
+13	carrot	lemma: carrot	pos: NOUN	dep: conj	gov: 1	feats: Number=Sing
+14	,	lemma: ,	pos: PUNCT	dep: punct	gov: 15	feats: None
+15	etc	lemma: etc	pos: X	dep: conj	gov: 1	feats: None
+
+ 82 It is common to buy flowers, etc. for Valentine's Day
+1	It	lemma: it	pos: PRON	dep: expl	gov: 3	feats: Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+2	is	lemma: be	pos: AUX	dep: cop	gov: 3	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+3	common	lemma: common	pos: ADJ	dep: root	gov: 0	feats: Degree=Pos
+4	to	lemma: to	pos: PART	dep: mark	gov: 5	feats: None
+5	buy	lemma: buy	pos: VERB	dep: csubj	gov: 3	feats: VerbForm=Inf
+6	flowers	lemma: flower	pos: NOUN	dep: obj	gov: 5	feats: Number=Plur
+7	,	lemma: ,	pos: PUNCT	dep: punct	gov: 8	feats: None
+8	etc.	lemma: etc.	pos: X	dep: conj	gov: 6	feats: None
+9	for	lemma: for	pos: ADP	dep: case	gov: 12	feats: None
+10	Valentine	lemma: Valentine	pos: PROPN	dep: nmod:poss	gov: 12	feats: Number=Sing
+11	's	lemma: 's	pos: PART	dep: case	gov: 10	feats: None
+12	Day	lemma: Day	pos: PROPN	dep: obl	gov: 5	feats: Number=Sing
+
+ 83 Bill is honest
+1	Bill	lemma: Bill	pos: PROPN	dep: nsubj	gov: 3	feats: Number=Sing
+2	is	lemma: be	pos: AUX	dep: cop	gov: 3	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+3	honest	lemma: honest	pos: ADJ	dep: root	gov: 0	feats: Degree=Pos
+
+ 84 Ivan is the best dancer
+1	Ivan	lemma: Ivan	pos: PROPN	dep: nsubj	gov: 5	feats: Number=Sing
+2	is	lemma: be	pos: AUX	dep: cop	gov: 5	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+3	the	lemma: the	pos: DET	dep: det	gov: 5	feats: Definite=Def|PronType=Art
+4	best	lemma: good	pos: ADJ	dep: amod	gov: 5	feats: Degree=Sup
+5	dancer	lemma: dancer	pos: NOUN	dep: root	gov: 0	feats: Number=Sing
+
+ 85 Contract was signed in red ink
+1	Contract	lemma: contract	pos: NOUN	dep: nsubj:pass	gov: 3	feats: Number=Sing
+2	was	lemma: be	pos: AUX	dep: aux:pass	gov: 3	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+3	signed	lemma: sign	pos: VERB	dep: root	gov: 0	feats: Tense=Past|VerbForm=Part|Voice=Pass
+4	in	lemma: in	pos: ADP	dep: case	gov: 6	feats: None
+5	red	lemma: red	pos: ADJ	dep: amod	gov: 6	feats: Degree=Pos
+6	ink	lemma: ink	pos: NOUN	dep: obl	gov: 3	feats: Number=Sing
+
+ 86 Mary is in shape
+1	Mary	lemma: Mary	pos: PROPN	dep: nsubj	gov: 4	feats: Number=Sing
+2	is	lemma: be	pos: AUX	dep: cop	gov: 4	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+3	in	lemma: in	pos: ADP	dep: case	gov: 4	feats: None
+4	shape	lemma: shape	pos: NOUN	dep: root	gov: 0	feats: Number=Sing
+
+ 87 Sue has been helpful
+1	Sue	lemma: Sue	pos: PROPN	dep: nsubj	gov: 4	feats: Number=Sing
+2	has	lemma: have	pos: AUX	dep: aux	gov: 4	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+3	been	lemma: be	pos: AUX	dep: cop	gov: 4	feats: Tense=Past|VerbForm=Part
+4	helpful	lemma: helpful	pos: ADJ	dep: root	gov: 0	feats: Degree=Pos
+
+ 88 The presence of troops will be destabilizing
+1	The	lemma: the	pos: DET	dep: det	gov: 2	feats: Definite=Def|PronType=Art
+2	presence	lemma: presence	pos: NOUN	dep: nsubj	gov: 7	feats: Number=Sing
+3	of	lemma: of	pos: ADP	dep: case	gov: 4	feats: None
+4	troops	lemma: troops	pos: NOUN	dep: nmod	gov: 2	feats: Number=Plur
+5	will	lemma: will	pos: AUX	dep: aux	gov: 7	feats: VerbForm=Fin
+6	be	lemma: be	pos: AUX	dep: aux	gov: 7	feats: VerbForm=Inf
+7	destabilizing	lemma: destabilize	pos: VERB	dep: root	gov: 0	feats: Tense=Pres|VerbForm=Part
+
+ 89 The problem is that this has never been tried
+1	The	lemma: the	pos: DET	dep: det	gov: 2	feats: Definite=Def|PronType=Art
+2	problem	lemma: problem	pos: NOUN	dep: nsubj	gov: 3	feats: Number=Sing
+3	is	lemma: be	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+4	that	lemma: that	pos: SCONJ	dep: mark	gov: 9	feats: None
+5	this	lemma: this	pos: PRON	dep: nsubj:pass	gov: 9	feats: Number=Sing|PronType=Dem
+6	has	lemma: have	pos: AUX	dep: aux	gov: 9	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+7	never	lemma: never	pos: ADV	dep: advmod	gov: 9	feats: None
+8	been	lemma: be	pos: AUX	dep: aux:pass	gov: 9	feats: Tense=Past|VerbForm=Part
+9	tried	lemma: try	pos: VERB	dep: ccomp	gov: 3	feats: Tense=Past|VerbForm=Part|Voice=Pass
+
+ 90 The important thing is to keep calm
+1	The	lemma: the	pos: DET	dep: det	gov: 3	feats: Definite=Def|PronType=Art
+2	important	lemma: important	pos: ADJ	dep: amod	gov: 3	feats: Degree=Pos
+3	thing	lemma: thing	pos: NOUN	dep: nsubj:outer	gov: 6	feats: Number=Sing
+4	is	lemma: be	pos: AUX	dep: cop	gov: 6	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+5	to	lemma: to	pos: PART	dep: mark	gov: 6	feats: None
+6	keep	lemma: keep	pos: VERB	dep: root	gov: 0	feats: VerbForm=Inf
+7	calm	lemma: calm	pos: ADJ	dep: xcomp	gov: 6	feats: Degree=Pos
+
+ 91 What she said makes sense
+1	What	lemma: what	pos: PRON	dep: obj	gov: 3	feats: PronType=Int
+2	she	lemma: she	pos: PRON	dep: nsubj	gov: 3	feats: Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+3	said	lemma: say	pos: VERB	dep: csubj	gov: 4	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+4	makes	lemma: make	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+5	sense	lemma: sense	pos: NOUN	dep: obj	gov: 4	feats: Number=Sing
+
+ 92 What she said is interesting
+1	What	lemma: what	pos: PRON	dep: obj	gov: 3	feats: PronType=Int
+2	she	lemma: she	pos: PRON	dep: nsubj	gov: 3	feats: Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+3	said	lemma: say	pos: VERB	dep: csubj	gov: 5	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+4	is	lemma: be	pos: AUX	dep: cop	gov: 5	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+5	interesting	lemma: interesting	pos: ADJ	dep: root	gov: 0	feats: Degree=Pos
+
+ 93 What she said was well received
+1	What	lemma: what	pos: PRON	dep: obj	gov: 3	feats: PronType=Int
+2	she	lemma: she	pos: PRON	dep: nsubj	gov: 3	feats: Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+3	said	lemma: say	pos: VERB	dep: csubj:pass	gov: 6	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+4	was	lemma: be	pos: AUX	dep: aux:pass	gov: 6	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+5	well	lemma: well	pos: ADV	dep: advmod	gov: 6	feats: Degree=Pos
+6	received	lemma: receive	pos: VERB	dep: root	gov: 0	feats: Tense=Past|VerbForm=Part|Voice=Pass
+
+ 94 That we should decline is clear
+1	That	lemma: that	pos: SCONJ	dep: mark	gov: 4	feats: None
+2	we	lemma: we	pos: PRON	dep: nsubj	gov: 4	feats: Case=Nom|Number=Plur|Person=1|PronType=Prs
+3	should	lemma: should	pos: AUX	dep: aux	gov: 4	feats: VerbForm=Fin
+4	decline	lemma: decline	pos: VERB	dep: csubj	gov: 6	feats: VerbForm=Inf
+5	is	lemma: be	pos: AUX	dep: cop	gov: 6	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+6	clear	lemma: clear	pos: ADJ	dep: root	gov: 0	feats: Degree=Pos
+
+ 95 To hike in the mountains is to experience the best of nature
+1	To	lemma: to	pos: PART	dep: mark	gov: 2	feats: None
+2	hike	lemma: hike	pos: VERB	dep: csubj:outer	gov: 6	feats: VerbForm=Inf
+3	in	lemma: in	pos: ADP	dep: case	gov: 5	feats: None
+4	the	lemma: the	pos: DET	dep: det	gov: 5	feats: Definite=Def|PronType=Art
+5	mountains	lemma: mountain	pos: NOUN	dep: obl	gov: 2	feats: Number=Plur
+6	is	lemma: be	pos: VERB	dep: cop	gov: 8	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+7	to	lemma: to	pos: PART	dep: mark	gov: 8	feats: None
+8	experience	lemma: experience	pos: VERB	dep: root	gov: 0	feats: VerbForm=Inf
+9	the	lemma: the	pos: DET	dep: det	gov: 10	feats: Definite=Def|PronType=Art
+10	best	lemma: good	pos: ADJ	dep: obj	gov: 8	feats: Degree=Sup
+11	of	lemma: of	pos: ADP	dep: case	gov: 12	feats: None
+12	nature	lemma: nature	pos: NOUN	dep: obl	gov: 10	feats: Number=Sing
+
+ 96 For us to not attempt to solve the problem is for us to acknowledge defeat
+1	For	lemma: for	pos: SCONJ	dep: mark	gov: 5	feats: None
+2	us	lemma: we	pos: PRON	dep: nsubj	gov: 5	feats: Case=Acc|Number=Plur|Person=1|PronType=Prs
+3	to	lemma: to	pos: PART	dep: mark	gov: 5	feats: None
+4	not	lemma: not	pos: PART	dep: advmod	gov: 5	feats: None
+5	attempt	lemma: attempt	pos: VERB	dep: csubj:outer	gov: 14	feats: VerbForm=Inf
+6	to	lemma: to	pos: PART	dep: mark	gov: 7	feats: None
+7	solve	lemma: solve	pos: VERB	dep: xcomp	gov: 5	feats: VerbForm=Inf
+8	the	lemma: the	pos: DET	dep: det	gov: 9	feats: Definite=Def|PronType=Art
+9	problem	lemma: problem	pos: NOUN	dep: obj	gov: 7	feats: Number=Sing
+10	is	lemma: be	pos: AUX	dep: cop	gov: 14	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+11	for	lemma: for	pos: SCONJ	dep: mark	gov: 14	feats: None
+12	us	lemma: we	pos: PRON	dep: nsubj	gov: 14	feats: Case=Acc|Number=Plur|Person=1|PronType=Prs
+13	to	lemma: to	pos: PART	dep: mark	gov: 14	feats: None
+14	acknowledge	lemma: acknowledge	pos: VERB	dep: root	gov: 0	feats: VerbForm=Inf
+15	defeat	lemma: defeat	pos: NOUN	dep: obj	gov: 14	feats: Number=Sing
+
+ 97 It is very important that your students respect you
+1	It	lemma: it	pos: PRON	dep: expl	gov: 4	feats: Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+2	is	lemma: be	pos: AUX	dep: cop	gov: 4	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+3	very	lemma: very	pos: ADV	dep: advmod	gov: 4	feats: None
+4	important	lemma: important	pos: ADJ	dep: root	gov: 0	feats: Degree=Pos
+5	that	lemma: that	pos: SCONJ	dep: mark	gov: 8	feats: None
+6	your	lemma: you	pos: PRON	dep: nmod:poss	gov: 7	feats: Person=2|Poss=Yes|PronType=Prs
+7	students	lemma: student	pos: NOUN	dep: nsubj	gov: 8	feats: Number=Plur
+8	respect	lemma: respect	pos: VERB	dep: csubj	gov: 4	feats: Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+9	you	lemma: you	pos: PRON	dep: obj	gov: 8	feats: Case=Acc|Person=2|PronType=Prs
+
+ 98 The man is here
+1	The	lemma: the	pos: DET	dep: det	gov: 2	feats: Definite=Def|PronType=Art
+2	man	lemma: man	pos: NOUN	dep: nsubj	gov: 4	feats: Number=Sing
+3	is	lemma: be	pos: AUX	dep: cop	gov: 4	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+4	here	lemma: here	pos: ADV	dep: root	gov: 0	feats: PronType=Dem
+
+ 99 Which book do you prefer?
+1	Which	lemma: which	pos: DET	dep: det	gov: 2	feats: PronType=Int
+2	book	lemma: book	pos: NOUN	dep: obj	gov: 5	feats: Number=Sing
+3	do	lemma: do	pos: AUX	dep: aux	gov: 5	feats: Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin
+4	you	lemma: you	pos: PRON	dep: nsubj	gov: 5	feats: Case=Nom|Person=2|PronType=Prs
+5	prefer	lemma: prefer	pos: VERB	dep: root	gov: 0	feats: VerbForm=Inf
+6	?	lemma: ?	pos: PUNCT	dep: punct	gov: 5	feats: None
+
+ 100 How many men played cards?
+1	How	lemma: how	pos: ADV	dep: advmod	gov: 2	feats: PronType=Int
+2	many	lemma: many	pos: ADJ	dep: amod	gov: 3	feats: Degree=Pos
+3	men	lemma: man	pos: NOUN	dep: nsubj	gov: 4	feats: Number=Plur
+4	played	lemma: play	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+5	cards	lemma: card	pos: NOUN	dep: obj	gov: 4	feats: Number=Plur
+6	?	lemma: ?	pos: PUNCT	dep: punct	gov: 4	feats: None
+
+ 101 There is a ghost in the room
+1	There	lemma: there	pos: PRON	dep: expl	gov: 2	feats: None
+2	is	lemma: be	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+3	a	lemma: a	pos: DET	dep: det	gov: 4	feats: Definite=Ind|PronType=Art
+4	ghost	lemma: ghost	pos: NOUN	dep: nsubj	gov: 2	feats: Number=Sing
+5	in	lemma: in	pos: ADP	dep: case	gov: 7	feats: None
+6	the	lemma: the	pos: DET	dep: det	gov: 7	feats: Definite=Def|PronType=Art
+7	room	lemma: room	pos: NOUN	dep: obl	gov: 2	feats: Number=Sing
+
+ 102 It is clear that we should decline
+1	It	lemma: it	pos: PRON	dep: expl	gov: 3	feats: Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+2	is	lemma: be	pos: AUX	dep: cop	gov: 3	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+3	clear	lemma: clear	pos: ADJ	dep: root	gov: 0	feats: Degree=Pos
+4	that	lemma: that	pos: SCONJ	dep: mark	gov: 7	feats: None
+5	we	lemma: we	pos: PRON	dep: nsubj	gov: 7	feats: Case=Nom|Number=Plur|Person=1|PronType=Prs
+6	should	lemma: should	pos: AUX	dep: aux	gov: 7	feats: VerbForm=Fin
+7	decline	lemma: decline	pos: VERB	dep: csubj	gov: 3	feats: VerbForm=Inf
+
+ 103 I believe there to be a ghost in the room
+1	I	lemma: I	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Number=Sing|Person=1|PronType=Prs
+2	believe	lemma: believe	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+3	there	lemma: there	pos: PRON	dep: expl	gov: 2	feats: None
+4	to	lemma: to	pos: PART	dep: mark	gov: 7	feats: None
+5	be	lemma: be	pos: VERB	dep: xcomp	gov: 2	feats: VerbForm=Inf
+6	a	lemma: a	pos: DET	dep: det	gov: 7	feats: Definite=Ind|PronType=Art
+7	ghost	lemma: ghost	pos: NOUN	dep: nsubj	gov: 5	feats: Number=Sing
+8	in	lemma: in	pos: ADP	dep: case	gov: 10	feats: None
+9	the	lemma: the	pos: DET	dep: det	gov: 10	feats: Definite=Def|PronType=Art
+10	room	lemma: room	pos: NOUN	dep: obl	gov: 5	feats: Number=Sing
+
+ 104 I like dogs as well as cats
+1	I	lemma: I	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Number=Sing|Person=1|PronType=Prs
+2	like	lemma: like	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+3	dogs	lemma: dog	pos: NOUN	dep: obj	gov: 2	feats: Number=Plur
+4	as	lemma: as	pos: ADV	dep: cc	gov: 7	feats: ExtPos=CCONJ
+5	well	lemma: well	pos: ADV	dep: fixed	gov: 4	feats: Degree=Pos
+6	as	lemma: as	pos: ADP	dep: fixed	gov: 4	feats: None
+7	cats	lemma: cat	pos: NOUN	dep: conj	gov: 3	feats: Number=Plur
+
+ 105 He cried because of you
+1	He	lemma: he	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+2	cried	lemma: cry	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+3	because	lemma: because	pos: ADP	dep: case	gov: 5	feats: None
+4	of	lemma: of	pos: ADP	dep: fixed	gov: 3	feats: None
+5	you	lemma: you	pos: PRON	dep: obl	gov: 2	feats: Case=Acc|Person=2|PronType=Prs
+
+ 106 I prefer getting a dessert rather than an appetizer
+1	I	lemma: I	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Number=Sing|Person=1|PronType=Prs
+2	prefer	lemma: prefer	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+3	getting	lemma: get	pos: VERB	dep: xcomp	gov: 2	feats: VerbForm=Ger
+4	a	lemma: a	pos: DET	dep: det	gov: 5	feats: Definite=Ind|PronType=Art
+5	dessert	lemma: dessert	pos: NOUN	dep: obj	gov: 3	feats: Number=Sing
+6	rather	lemma: rather	pos: ADV	dep: cc	gov: 9	feats: None
+7	than	lemma: than	pos: ADP	dep: fixed	gov: 6	feats: None
+8	an	lemma: a	pos: DET	dep: det	gov: 9	feats: Definite=Ind|PronType=Art
+9	appetizer	lemma: appetizer	pos: NOUN	dep: conj	gov: 5	feats: Number=Sing
+
+ 107 Hilary Rodham Clinton
+1	Hilary	lemma: Hilary	pos: PROPN	dep: root	gov: 0	feats: Number=Sing
+2	Rodham	lemma: Rodham	pos: PROPN	dep: flat	gov: 1	feats: Number=Sing
+3	Clinton	lemma: Clinton	pos: PROPN	dep: flat	gov: 1	feats: Number=Sing
+
+ 108 New York
+1	New	lemma: New	pos: PROPN	dep: root	gov: 0	feats: Degree=Pos
+2	York	lemma: York	pos: PROPN	dep: flat	gov: 1	feats: Number=Sing
+
+ 109 Mr. Smith
+1	Mr.	lemma: Mr.	pos: PROPN	dep: root	gov: 0	feats: Number=Sing
+2	Smith	lemma: Smith	pos: PROPN	dep: flat	gov: 1	feats: Number=Sing
+
+ 110 President Obama
+1	President	lemma: President	pos: PROPN	dep: root	gov: 0	feats: Number=Sing
+2	Obama	lemma: Obama	pos: PROPN	dep: flat	gov: 1	feats: Number=Sing
+
+ 111 French actor Gaspar Ulliel
+1	French	lemma: French	pos: ADJ	dep: amod	gov: 2	feats: Degree=Pos
+2	actor	lemma: actor	pos: NOUN	dep: root	gov: 0	feats: Number=Sing
+3	Gaspar	lemma: Gaspar	pos: PROPN	dep: flat	gov: 2	feats: Number=Sing
+4	Ulliel	lemma: Ulliel	pos: PROPN	dep: flat	gov: 2	feats: Number=Sing
+
+ 112 The Lord of the Rings
+1	The	lemma: the	pos: DET	dep: det	gov: 2	feats: Definite=Def|PronType=Art
+2	Lord	lemma: lord	pos: NOUN	dep: root	gov: 0	feats: Number=Sing
+3	of	lemma: of	pos: ADP	dep: case	gov: 5	feats: None
+4	the	lemma: the	pos: DET	dep: det	gov: 5	feats: Definite=Def|PronType=Art
+5	Rings	lemma: Rings	pos: PROPN	dep: nmod	gov: 2	feats: Number=Sing
+
+ 113 The King of Sweden
+1	The	lemma: the	pos: DET	dep: det	gov: 2	feats: Definite=Def|PronType=Art
+2	King	lemma: King	pos: PROPN	dep: root	gov: 0	feats: Number=Sing
+3	of	lemma: of	pos: ADP	dep: case	gov: 4	feats: None
+4	Sweden	lemma: Sweden	pos: PROPN	dep: nmod	gov: 2	feats: Number=Sing
+
+ 114 Natural Resources Conservation Service
+1	Natural	lemma: Natural	pos: ADJ	dep: amod	gov: 2	feats: Degree=Pos
+2	Resources	lemma: Resource	pos: NOUN	dep: compound	gov: 4	feats: Number=Plur
+3	Conservation	lemma: Conservation	pos: NOUN	dep: compound	gov: 4	feats: Number=Sing
+4	Service	lemma: service	pos: NOUN	dep: root	gov: 0	feats: Number=Sing
+
+ 115 1 December 2016
+1	1	lemma: 1	pos: NUM	dep: root	gov: 0	feats: NumForm=Digit|NumType=Card
+2	December	lemma: December	pos: PROPN	dep: flat	gov: 1	feats: Number=Sing
+3	2016	lemma: 2016	pos: NUM	dep: flat	gov: 1	feats: NumForm=Digit|NumType=Card
+
+ 116 four thousand
+1	four	lemma: four	pos: NUM	dep: root	gov: 0	feats: NumForm=Word|NumType=Card
+2	thousand	lemma: thousand	pos: NUM	dep: flat	gov: 1	feats: NumForm=Word|NumType=Card
+
+ 117 Formula 1
+1	Formula	lemma: formula	pos: NOUN	dep: root	gov: 0	feats: Number=Sing
+2	1	lemma: 1	pos: NUM	dep: flat:name	gov: 1	feats: NumForm=Digit|NumType=Card
+
+ 118 She gave me a raise
+1	She	lemma: she	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+2	gave	lemma: give	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+3	me	lemma: I	pos: PRON	dep: iobj	gov: 2	feats: Case=Acc|Number=Sing|Person=1|PronType=Prs
+4	a	lemma: a	pos: DET	dep: det	gov: 5	feats: Definite=Ind|PronType=Art
+5	raise	lemma: raise	pos: NOUN	dep: obj	gov: 2	feats: Number=Sing
+
+ 119 She teaches students introductory logic
+1	She	lemma: she	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+2	teaches	lemma: teach	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+3	students	lemma: student	pos: NOUN	dep: iobj	gov: 2	feats: Number=Plur
+4	introductory	lemma: introductory	pos: ADJ	dep: amod	gov: 5	feats: Degree=Pos
+5	logic	lemma: logic	pos: NOUN	dep: obj	gov: 2	feats: Number=Sing
+
+ 120 Steve Jones sj@abc.xyz University of Arizona
+1	Steve	lemma: Steve	pos: PROPN	dep: root	gov: 0	feats: Number=Sing
+2	Jones	lemma: Jones	pos: PROPN	dep: flat	gov: 1	feats: Number=Sing
+3	sj@abc.xyz	lemma: Sj@abc.xyz	pos: PROPN	dep: list	gov: 1	feats: Number=Sing
+4	University	lemma: University	pos: PROPN	dep: list	gov: 1	feats: Number=Sing
+5	of	lemma: of	pos: ADP	dep: case	gov: 6	feats: None
+6	Arizona	lemma: Arizona	pos: PROPN	dep: nmod	gov: 4	feats: Number=Sing
+
+ 121 We saw long lines, silly rules, rude staff
+1	We	lemma: we	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Number=Plur|Person=1|PronType=Prs
+2	saw	lemma: see	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin
+3	long	lemma: long	pos: ADJ	dep: amod	gov: 4	feats: Degree=Pos
+4	lines	lemma: line	pos: NOUN	dep: obj	gov: 2	feats: Number=Plur
+5	,	lemma: ,	pos: PUNCT	dep: punct	gov: 7	feats: None
+6	silly	lemma: silly	pos: ADJ	dep: amod	gov: 7	feats: Degree=Pos
+7	rules	lemma: rule	pos: NOUN	dep: list	gov: 4	feats: Number=Plur
+8	,	lemma: ,	pos: PUNCT	dep: punct	gov: 10	feats: None
+9	rude	lemma: rude	pos: ADJ	dep: amod	gov: 10	feats: Degree=Pos
+10	staff	lemma: staff	pos: NOUN	dep: list	gov: 4	feats: Number=Sing
+
+ 122 Sue left after we did
+1	Sue	lemma: Sue	pos: PROPN	dep: nsubj	gov: 2	feats: Number=Sing
+2	left	lemma: leave	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+3	after	lemma: after	pos: SCONJ	dep: mark	gov: 5	feats: None
+4	we	lemma: we	pos: PRON	dep: nsubj	gov: 5	feats: Case=Nom|Number=Plur|Person=1|PronType=Prs
+5	did	lemma: do	pos: VERB	dep: advcl	gov: 2	feats: Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin
+
+ 123 Forces engaged in fighting after insurgents attacked
+1	Forces	lemma: force	pos: NOUN	dep: nsubj	gov: 2	feats: Number=Plur
+2	engaged	lemma: engage	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+3	in	lemma: in	pos: ADP	dep: case	gov: 4	feats: None
+4	fighting	lemma: fighting	pos: NOUN	dep: obl	gov: 2	feats: Number=Sing
+5	after	lemma: after	pos: SCONJ	dep: mark	gov: 7	feats: None
+6	insurgents	lemma: insurgent	pos: NOUN	dep: nsubj	gov: 7	feats: Number=Plur
+7	attacked	lemma: attack	pos: VERB	dep: advcl	gov: 2	feats: Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+
+ 124 He says that you like to swim
+1	He	lemma: he	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+2	says	lemma: say	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+3	that	lemma: that	pos: SCONJ	dep: mark	gov: 5	feats: None
+4	you	lemma: you	pos: PRON	dep: nsubj	gov: 5	feats: Case=Nom|Person=2|PronType=Prs
+5	like	lemma: like	pos: VERB	dep: ccomp	gov: 2	feats: Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin
+6	to	lemma: to	pos: PART	dep: mark	gov: 7	feats: None
+7	swim	lemma: swim	pos: VERB	dep: xcomp	gov: 5	feats: VerbForm=Inf
+
+ 125 The office of the Chair is closed
+1	The	lemma: the	pos: DET	dep: det	gov: 2	feats: Definite=Def|PronType=Art
+2	office	lemma: office	pos: NOUN	dep: nsubj:pass	gov: 7	feats: Number=Sing
+3	of	lemma: of	pos: ADP	dep: case	gov: 5	feats: None
+4	the	lemma: the	pos: DET	dep: det	gov: 5	feats: Definite=Def|PronType=Art
+5	Chair	lemma: chair	pos: PROPN	dep: nmod	gov: 2	feats: Number=Sing
+6	is	lemma: be	pos: AUX	dep: aux:pass	gov: 7	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+7	closed	lemma: close	pos: VERB	dep: root	gov: 0	feats: Tense=Past|VerbForm=Part|Voice=Pass
+
+ 126 The Chair's office is closed
+1	The	lemma: the	pos: DET	dep: det	gov: 2	feats: Definite=Def|PronType=Art
+2	Chair	lemma: chair	pos: PROPN	dep: nmod:poss	gov: 4	feats: Number=Sing
+3	's	lemma: 's	pos: PART	dep: case	gov: 2	feats: None
+4	office	lemma: office	pos: NOUN	dep: nsubj:pass	gov: 6	feats: Number=Sing
+5	is	lemma: be	pos: AUX	dep: aux:pass	gov: 6	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+6	closed	lemma: close	pos: VERB	dep: root	gov: 0	feats: Tense=Past|VerbForm=Part|Voice=Pass
+
+ 127 Mary's book
+1	Mary	lemma: Mary	pos: PROPN	dep: nmod:poss	gov: 3	feats: Number=Sing
+2	's	lemma: 's	pos: PART	dep: case	gov: 1	feats: None
+3	book	lemma: book	pos: NOUN	dep: root	gov: 0	feats: Number=Sing
+
+ 128 Are you free for lunch some day this week?
+ 1	Are	lemma: be	pos: AUX	dep: cop	gov: 3	feats: Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin
+ 2	you	lemma: you	pos: PRON	dep: nsubj	gov: 3	feats: Case=Nom|Person=2|PronType=Prs
+ 3	free	lemma: free	pos: ADJ	dep: root	gov: 0	feats: Degree=Pos
+ 4	for	lemma: for	pos: ADP	dep: case	gov: 5	feats: None
+ 5	lunch	lemma: lunch	pos: NOUN	dep: obl	gov: 3	feats: Number=Sing
+ 6	some	lemma: some	pos: DET	dep: det	gov: 7	feats: None
+ 7	day	lemma: day	pos: NOUN	dep: obl:tmod	gov: 3	feats: Number=Sing
+ 8	this	lemma: this	pos: DET	dep: det	gov: 9	feats: Number=Sing|PronType=Dem
+ 9	week	lemma: week	pos: NOUN	dep: nmod:tmod	gov: 3	feats: Number=Sing
+ 10	?	lemma: ?	pos: PUNCT	dep: punct	gov: 3	feats: None
+
+ 129 Clinton defeated Dole
+1	Clinton	lemma: Clinton	pos: PROPN	dep: nsubj	gov: 2	feats: Number=Sing
+2	defeated	lemma: defeat	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+3	Dole	lemma: Dole	pos: PROPN	dep: obj	gov: 2	feats: Number=Sing
+
+ 130 The car is red
+1	The	lemma: the	pos: DET	dep: det	gov: 2	feats: Definite=Def|PronType=Art
+2	car	lemma: car	pos: NOUN	dep: nsubj	gov: 4	feats: Number=Sing
+3	is	lemma: be	pos: AUX	dep: cop	gov: 4	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+4	red	lemma: red	pos: ADJ	dep: root	gov: 0	feats: Degree=Pos
+
+ 131 Sue is a true patriot
+1	Sue	lemma: Sue	pos: PROPN	dep: nsubj	gov: 5	feats: Number=Sing
+2	is	lemma: be	pos: AUX	dep: cop	gov: 5	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+3	a	lemma: a	pos: DET	dep: det	gov: 5	feats: Definite=Ind|PronType=Art
+4	true	lemma: true	pos: ADJ	dep: amod	gov: 5	feats: Degree=Pos
+5	patriot	lemma: patriot	pos: NOUN	dep: root	gov: 0	feats: Number=Sing
+
+ 132 We are in the barn
+1	We	lemma: we	pos: PRON	dep: nsubj	gov: 5	feats: Case=Nom|Number=Plur|Person=1|PronType=Prs
+2	are	lemma: be	pos: AUX	dep: cop	gov: 5	feats: Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+3	in	lemma: in	pos: ADP	dep: case	gov: 5	feats: None
+4	the	lemma: the	pos: DET	dep: det	gov: 5	feats: Definite=Def|PronType=Art
+5	barn	lemma: barn	pos: NOUN	dep: root	gov: 0	feats: Number=Sing
+
+ 133 Agatha is in trouble
+1	Agatha	lemma: Agatha	pos: PROPN	dep: nsubj	gov: 4	feats: Number=Sing
+2	is	lemma: be	pos: AUX	dep: cop	gov: 4	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+3	in	lemma: in	pos: ADP	dep: case	gov: 4	feats: None
+4	trouble	lemma: trouble	pos: NOUN	dep: root	gov: 0	feats: Number=Sing
+
+ 134 These links present many viewpoints that existed
+1	These	lemma: this	pos: DET	dep: det	gov: 2	feats: Number=Plur|PronType=Dem
+2	links	lemma: link	pos: NOUN	dep: nsubj	gov: 3	feats: Number=Plur
+3	present	lemma: present	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+4	many	lemma: many	pos: ADJ	dep: amod	gov: 5	feats: Degree=Pos
+5	viewpoints	lemma: viewpoint	pos: NOUN	dep: obj	gov: 3	feats: Number=Plur
+6	that	lemma: that	pos: PRON	dep: nsubj	gov: 7	feats: PronType=Rel
+7	existed	lemma: exist	pos: VERB	dep: acl:relcl	gov: 5	feats: Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+
+ 135 The title is Green Eggs and Ham
+1	The	lemma: the	pos: DET	dep: det	gov: 2	feats: Definite=Def|PronType=Art
+2	title	lemma: title	pos: NOUN	dep: nsubj	gov: 5	feats: Number=Sing
+3	is	lemma: be	pos: AUX	dep: cop	gov: 5	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+4	Green	lemma: Green	pos: ADJ	dep: amod	gov: 5	feats: Degree=Pos
+5	Eggs	lemma: Egg	pos: PROPN	dep: root	gov: 0	feats: Number=Plur
+6	and	lemma: and	pos: CCONJ	dep: cc	gov: 7	feats: None
+7	Ham	lemma: Ham	pos: PROPN	dep: conj	gov: 5	feats: Number=Sing
+
+ 136 The problem is this has never been tried
+1	The	lemma: the	pos: DET	dep: det	gov: 2	feats: Definite=Def|PronType=Art
+2	problem	lemma: problem	pos: NOUN	dep: nsubj:outer	gov: 8	feats: Number=Sing
+3	is	lemma: be	pos: AUX	dep: cop	gov: 8	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+4	this	lemma: this	pos: PRON	dep: nsubj:pass	gov: 8	feats: Number=Sing|PronType=Dem
+5	has	lemma: have	pos: AUX	dep: aux	gov: 8	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+6	never	lemma: never	pos: ADV	dep: advmod	gov: 8	feats: None
+7	been	lemma: be	pos: AUX	dep: aux:pass	gov: 8	feats: Tense=Past|VerbForm=Part
+8	tried	lemma: try	pos: VERB	dep: root	gov: 0	feats: Tense=Past|VerbForm=Part|Voice=Pass
+
+ 137 The title is Some like it Hot
+1	The	lemma: the	pos: DET	dep: det	gov: 2	feats: Definite=Def|PronType=Art
+2	title	lemma: title	pos: NOUN	dep: nsubj:outer	gov: 5	feats: Number=Sing
+3	is	lemma: be	pos: AUX	dep: cop	gov: 5	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+4	Some	lemma: some	pos: DET	dep: nsubj	gov: 5	feats: None
+5	like	lemma: like	pos: VERB	dep: root	gov: 0	feats: None
+6	it	lemma: it	pos: PRON	dep: obj	gov: 5	feats: Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+7	Hot	lemma: hot	pos: ADJ	dep: xcomp	gov: 5	feats: Degree=Pos
+
+ 138 Dole was defeated by Dole
+1	Dole	lemma: Dole	pos: PROPN	dep: nsubj:pass	gov: 3	feats: Number=Sing
+2	was	lemma: be	pos: AUX	dep: aux:pass	gov: 3	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+3	defeated	lemma: defeat	pos: VERB	dep: root	gov: 0	feats: Tense=Past|VerbForm=Part|Voice=Pass
+4	by	lemma: by	pos: ADP	dep: case	gov: 5	feats: None
+5	Dole	lemma: Dole	pos: PROPN	dep: obl:agent	gov: 3	feats: Number=Sing
+
+ 139 Sam ate 3 sheep
+1	Sam	lemma: Sam	pos: PROPN	dep: nsubj	gov: 2	feats: Number=Sing
+2	ate	lemma: eat	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+3	3	lemma: 3	pos: NUM	dep: nummod	gov: 4	feats: NumForm=Digit|NumType=Card
+4	sheep	lemma: sheep	pos: NOUN	dep: obj	gov: 2	feats: Number=Sing
+
+ 140 Sam spent forty dollars
+1	Sam	lemma: Sam	pos: PROPN	dep: nsubj	gov: 2	feats: Number=Sing
+2	spent	lemma: spend	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+3	forty	lemma: forty	pos: NUM	dep: nummod	gov: 4	feats: NumForm=Word|NumType=Card
+4	dollars	lemma: dollar	pos: NOUN	dep: obj	gov: 2	feats: Number=Plur
+
+ 141 Sam spent $40
+1	Sam	lemma: Sam	pos: PROPN	dep: nsubj	gov: 2	feats: Number=Sing
+2	spent	lemma: spend	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+3	$	lemma: $	pos: SYM	dep: obj	gov: 2	feats: None
+4	40	lemma: 40	pos: NUM	dep: nummod	gov: 3	feats: NumForm=Digit|NumType=Card
+
+ 142 The meeting will be in room 4
+1	The	lemma: the	pos: DET	dep: det	gov: 2	feats: Definite=Def|PronType=Art
+2	meeting	lemma: meeting	pos: NOUN	dep: nsubj	gov: 6	feats: Number=Sing
+3	will	lemma: will	pos: AUX	dep: aux	gov: 6	feats: VerbForm=Fin
+4	be	lemma: be	pos: AUX	dep: cop	gov: 6	feats: VerbForm=Inf
+5	in	lemma: in	pos: ADP	dep: case	gov: 6	feats: None
+6	room	lemma: room	pos: NOUN	dep: root	gov: 0	feats: Number=Sing
+7	4	lemma: 4	pos: NUM	dep: nmod	gov: 6	feats: NumForm=Digit|NumType=Card
+
+ 143 Five men played cards
+ 1	Five	lemma: five	pos: NUM	dep: nummod	gov: 2	feats: NumForm=Word|NumType=Card
+ 2	men	lemma: man	pos: NOUN	dep: nsubj	gov: 3	feats: Number=Plur
+ 3	played	lemma: play	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+ 4	cards	lemma: card	pos: NOUN	dep: obj	gov: 3	feats: Number=Plur
+
+ 144 She gave me a raise
+1	She	lemma: she	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+2	gave	lemma: give	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+3	me	lemma: I	pos: PRON	dep: iobj	gov: 2	feats: Case=Acc|Number=Sing|Person=1|PronType=Prs
+4	a	lemma: a	pos: DET	dep: det	gov: 5	feats: Definite=Ind|PronType=Art
+5	raise	lemma: raise	pos: NOUN	dep: obj	gov: 2	feats: Number=Sing
+
+ 145 Last night, I swam in the pool
+1	Last	lemma: last	pos: ADJ	dep: amod	gov: 2	feats: Degree=Pos
+2	night	lemma: night	pos: NOUN	dep: obl:tmod	gov: 5	feats: Number=Sing
+3	,	lemma: ,	pos: PUNCT	dep: punct	gov: 5	feats: None
+4	I	lemma: I	pos: PRON	dep: nsubj	gov: 5	feats: Case=Nom|Number=Sing|Person=1|PronType=Prs
+5	swam	lemma: swim	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin
+6	in	lemma: in	pos: ADP	dep: case	gov: 8	feats: None
+7	the	lemma: the	pos: DET	dep: det	gov: 8	feats: Definite=Def|PronType=Art
+8	pool	lemma: pool	pos: NOUN	dep: obl	gov: 5	feats: Number=Sing
+
+ 146 The cat was chased by the dog
+1	The	lemma: the	pos: DET	dep: det	gov: 2	feats: Definite=Def|PronType=Art
+2	cat	lemma: cat	pos: NOUN	dep: nsubj:pass	gov: 4	feats: Number=Sing
+3	was	lemma: be	pos: AUX	dep: aux:pass	gov: 4	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+4	chased	lemma: chase	pos: VERB	dep: root	gov: 0	feats: Tense=Past|VerbForm=Part|Voice=Pass
+5	by	lemma: by	pos: ADP	dep: case	gov: 7	feats: None
+6	the	lemma: the	pos: DET	dep: det	gov: 7	feats: Definite=Def|PronType=Art
+7	dog	lemma: dog	pos: NOUN	dep: obl:agent	gov: 4	feats: Number=Sing
+
+ 147 Mary won gold and Peter bronze
+1	Mary	lemma: Mary	pos: PROPN	dep: nsubj	gov: 2	feats: Number=Sing
+2	won	lemma: win	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+3	gold	lemma: gold	pos: NOUN	dep: obj	gov: 2	feats: Number=Sing
+4	and	lemma: and	pos: CCONJ	dep: cc	gov: 5	feats: None
+5	Peter	lemma: Peter	pos: PROPN	dep: conj	gov: 2	feats: Number=Sing
+6	bronze	lemma: bronze	pos: NOUN	dep: orphan	gov: 5	feats: Number=Sing
+
+ 148 "Three muffins", he answered, "are all that I need today"
+1	"	lemma: "	pos: PUNCT	dep: punct	gov: 3	feats: None
+2	Three	lemma: three	pos: NUM	dep: nummod	gov: 3	feats: NumForm=Word|NumType=Card
+3	muffins	lemma: muffin	pos: NOUN	dep: nsubj	gov: 11	feats: Number=Plur
+4	"	lemma: "	pos: PUNCT	dep: punct	gov: 3	feats: None
+5	,	lemma: ,	pos: PUNCT	dep: punct	gov: 3	feats: None
+6	he	lemma: he	pos: PRON	dep: nsubj	gov: 7	feats: Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+7	answered	lemma: answer	pos: VERB	dep: prataxis	gov: 11	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+8	,	lemma: ,	pos: PUNCT	dep: punct	gov: 11	feats: None
+9	"	lemma: "	pos: PUNCT	dep: punct	gov: 11	feats: None
+10	are	lemma: be	pos: AUX	dep: cop	gov: 11	feats: Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+11	all	lemma: all	pos: DET	dep: root	gov: 0	feats: None
+12	that	lemma: that	pos: PRON	dep: obj	gov: 14	feats: PronType=Rel
+13	I	lemma: I	pos: PRON	dep: nsubj	gov: 14	feats: Case=Nom|Number=Sing|Person=1|PronType=Prs
+14	need	lemma: need	pos: VERB	dep: acl:relcl	gov: 11	feats: Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+15	today	lemma: today	pos: NOUN	dep: obl:tmod	gov: 14	feats: Number=Sing
+16	"	lemma: "	pos: PUNCT	dep: punct	gov: 11	feats: None
+
+ 149 Weapons of mass destruction, the report explained, are designed to target civilian population
+1	Weapons	lemma: weapon	pos: NOUN	dep: nsubj:pass	gov: 11	feats: Number=Plur
+2	of	lemma: of	pos: ADP	dep: case	gov: 4	feats: None
+3	mass	lemma: mass	pos: ADJ	dep: amod	gov: 4	feats: Degree=Pos
+4	destruction	lemma: destruction	pos: NOUN	dep: nmod	gov: 1	feats: Number=Sing
+5	,	lemma: ,	pos: PUNCT	dep: punct	gov: 1	feats: None
+6	the	lemma: the	pos: DET	dep: det	gov: 7	feats: Definite=Def|PronType=Art
+7	report	lemma: report	pos: NOUN	dep: nsubj	gov: 8	feats: Number=Sing
+8	explained	lemma: explain	pos: VERB	dep: parataxis	gov: 11	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+9	,	lemma: ,	pos: PUNCT	dep: punct	gov: 11	feats: None
+10	are	lemma: be	pos: AUX	dep: aux:pass	gov: 11	feats: Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+11	designed	lemma: design	pos: VERB	dep: root	gov: 0	feats: Tense=Past|VerbForm=Part|Voice=Pass
+12	to	lemma: to	pos: PART	dep: mark	gov: 13	feats: None
+13	target	lemma: target	pos: VERB	dep: xcomp	gov: 11	feats: VerbForm=Inf
+14	civilian	lemma: civilian	pos: ADJ	dep: amod	gov: 15	feats: Degree=Pos
+15	population	lemma: population	pos: NOUN	dep: obj	gov: 13	feats: Number=Sing
+
+ 150 The impact that the group's practices, law enforcement officials say, are having on the most vulnerable within the sect is devastating
+ 1	The	lemma: the	pos: DET	dep: det	gov: 2	feats: Definite=Def|PronType=Art
+ 2	impact	lemma: impact	pos: NOUN	dep: nsubj	gov: 24	feats: Number=Sing
+ 3	that	lemma: that	pos: PRON	dep: obj	gov: 12	feats: PronType=Rel
+ 4	the	lemma: the	pos: DET	dep: det	gov: 5	feats: Definite=Def|PronType=Art
+ 5	group	lemma: group	pos: NOUN	dep: nmod:poss	gov: 7	feats: Number=Sing
+ 6	's	lemma: 's	pos: PART	dep: case	gov: 5	feats: None
+ 7	practices	lemma: practice	pos: NOUN	dep: nsubj	gov: 15	feats: Number=Plur
+ 8	,	lemma: ,	pos: PUNCT	dep: punct	gov: 12	feats: None
+ 9	law	lemma: law	pos: NOUN	dep: compound	gov: 10	feats: Number=Sing
+ 10	enforcement	lemma: enforcement	pos: NOUN	dep: compound	gov: 11	feats: Number=Sing
+ 11	officials	lemma: official	pos: NOUN	dep: nsubj	gov: 12	feats: Number=Plur
+ 12	say	lemma: say	pos: VERB	dep: prataxis	gov: 15	feats: Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+ 13	,	lemma: ,	pos: PUNCT	dep: punct	gov: 2	feats: None
+ 14	are	lemma: be	pos: AUX	dep: aux	gov: 15	feats: Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+ 15	having	lemma: have	pos: VERB	dep: acl:relcl	gov: 2	feats: Tense=Pres|VerbForm=Part
+ 16	on	lemma: on	pos: ADP	dep: case	gov: 19	feats: None
+ 17	the	lemma: the	pos: DET	dep: det	gov: 19	feats: Definite=Def|PronType=Art
+ 18	most	lemma: most	pos: ADV	dep: advmod	gov: 19	feats: Degree=Sup
+ 19	vulnerable	lemma: vulnerable	pos: ADJ	dep: obl	gov: 15	feats: Degree=Pos
+ 20	within	lemma: within	pos: ADP	dep: case	gov: 22	feats: None
+ 21	the	lemma: the	pos: DET	dep: det	gov: 22	feats: Definite=Def|PronType=Art
+ 22	sect	lemma: sect	pos: NOUN	dep: obl	gov: 15	feats: Number=Sing
+ 23	is	lemma: be	pos: AUX	dep: cop	gov: 24	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+ 24	devastating	lemma: devastating	pos: ADJ	dep: root	gov: 0	feats: Degree=Pos
+
+ 151 Let's face it we are annoyed
+1	Let	lemma: let	pos: VERB	dep: root	gov: 0	feats: Mood=Imp|VerbForm=Fin
+2	's	lemma: we	pos: PRON	dep: obj	gov: 1	feats: Case=Acc|Number=Plur|Person=1|PronType=Prs
+3	face	lemma: face	pos: VERB	dep: xcomp	gov: 1	feats: VerbForm=Inf
+4	it	lemma: it	pos: PRON	dep: obj	gov: 3	feats: Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+5	we	lemma: we	pos: PRON	dep: nsubj:pass	gov: 7	feats: Case=Nom|Number=Plur|Person=1|PronType=Prs
+6	are	lemma: be	pos: AUX	dep: aux:pass	gov: 7	feats: Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+7	annoyed	lemma: annoy	pos: VERB	dep: parataxis	gov: 1	feats: Tense=Past|VerbForm=Part|Voice=Pass
+
+ 152 The guy, John said, left early in the morning
+1	The	lemma: the	pos: DET	dep: det	gov: 2	feats: Definite=Def|PronType=Art
+2	guy	lemma: guy	pos: NOUN	dep: nsubj	gov: 7	feats: Number=Sing
+3	,	lemma: ,	pos: PUNCT	dep: punct	gov: 2	feats: None
+4	John	lemma: John	pos: PROPN	dep: nsubj	gov: 5	feats: Number=Sing
+5	said	lemma: say	pos: VERB	dep: parataxis	gov: 7	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+6	,	lemma: ,	pos: PUNCT	dep: punct	gov: 2	feats: None
+7	left	lemma: leave	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+8	early	lemma: early	pos: ADV	dep: advmod	gov: 7	feats: Degree=Pos
+9	in	lemma: in	pos: ADP	dep: case	gov: 11	feats: None
+10	the	lemma: the	pos: DET	dep: det	gov: 11	feats: Definite=Def|PronType=Art
+11	morning	lemma: morning	pos: NOUN	dep: obl	gov: 7	feats: Number=Sing
+
+ 153 Bearded dragons are sight hunters, they need to see the food to move
+1	Bearded	lemma: bearded	pos: ADJ	dep: amod	gov: 2	feats: Degree=Pos
+2	dragons	lemma: dragon	pos: NOUN	dep: nsubj	gov: 5	feats: Number=Plur
+3	are	lemma: be	pos: AUX	dep: cop	gov: 5	feats: Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+4	sight	lemma: sight	pos: ADJ	dep: amod	gov: 5	feats: Degree=Pos
+5	hunters	lemma: hunter	pos: NOUN	dep: root	gov: 0	feats: Number=Plur
+6	,	lemma: ,	pos: PUNCT	dep: punct	gov: 5	feats: None
+7	they	lemma: they	pos: PRON	dep: nsubj	gov: 8	feats: Case=Nom|Number=Plur|Person=3|PronType=Prs
+8	need	lemma: need	pos: VERB	dep: parataxis	gov: 5	feats: Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+9	to	lemma: to	pos: PART	dep: mark	gov: 10	feats: None
+10	see	lemma: see	pos: VERB	dep: xcomp	gov: 8	feats: VerbForm=Inf
+11	the	lemma: the	pos: DET	dep: det	gov: 12	feats: Definite=Def|PronType=Art
+12	food	lemma: food	pos: NOUN	dep: obj	gov: 10	feats: Number=Sing
+13	to	lemma: to	pos: PART	dep: mark	gov: 14	feats: None
+14	move	lemma: move	pos: VERB	dep: advcl	gov: 10	feats: VerbForm=Inf
+
+ 154 He claimed to be a wizard; however, he turn out to be a humbug
+1	He	lemma: he	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+2	claimed	lemma: claim	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+3	to	lemma: to	pos: PART	dep: mark	gov: 6	feats: None
+4	be	lemma: be	pos: AUX	dep: cop	gov: 6	feats: VerbForm=Inf
+5	a	lemma: a	pos: DET	dep: det	gov: 6	feats: Definite=Ind|PronType=Art
+6	wizard	lemma: wizard	pos: NOUN	dep: xcomp	gov: 2	feats: Number=Sing
+7	;	lemma: ;	pos: PUNCT	dep: punct	gov: 2	feats: None
+8	however	lemma: however	pos: ADV	dep: advmod	gov: 11	feats: None
+9	,	lemma: ,	pos: PUNCT	dep: punct	gov: 8	feats: None
+10	he	lemma: he	pos: PRON	dep: nsubj	gov: 11	feats: Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+11	turn	lemma: turn	pos: VERB	dep: parataxis	gov: 2	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+12	out	lemma: out	pos: ADP	dep: compound:prt	gov: 11	feats: None
+13	to	lemma: to	pos: PART	dep: mark	gov: 16	feats: None
+14	be	lemma: be	pos: AUX	dep: cop	gov: 16	feats: VerbForm=Inf
+15	a	lemma: a	pos: DET	dep: det	gov: 16	feats: Definite=Ind|PronType=Art
+16	humbug	lemma: humbug	pos: NOUN	dep: xcomp	gov: 11	feats: Number=Sing
+
+ 155 I'm hungry, so I'm getting a bagel
+1	I	lemma: I	pos: PRON	dep: nsubj	gov: 3	feats: Case=Nom|Number=Sing|Person=1|PronType=Prs
+2	'm	lemma: be	pos: AUX	dep: cop	gov: 3	feats: Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+3	hungry	lemma: hungry	pos: ADJ	dep: root	gov: 0	feats: Degree=Pos
+4	,	lemma: ,	pos: PUNCT	dep: punct	gov: 8	feats: None
+5	so	lemma: so	pos: ADV	dep: advmod	gov: 8	feats: None
+6	I	lemma: I	pos: PRON	dep: nsubj	gov: 8	feats: Case=Nom|Number=Sing|Person=1|PronType=Prs
+7	'm	lemma: be	pos: AUX	dep: aux	gov: 8	feats: Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+8	getting	lemma: get	pos: VERB	dep: parataxis	gov: 3	feats: Tense=Pres|VerbForm=Part
+9	a	lemma: a	pos: DET	dep: det	gov: 10	feats: Definite=Ind|PronType=Art
+10	bagel	lemma: bagel	pos: NOUN	dep: obj	gov: 8	feats: Number=Sing
+
+ 156 Eat now so you won't be hungry later
+1	Eat	lemma: eat	pos: VERB	dep: root	gov: 0	feats: Mood=Imp|VerbForm=Fin
+2	now	lemma: now	pos: ADV	dep: advmod	gov: 1	feats: None
+3	so	lemma: so	pos: SCONJ	dep: mark	gov: 8	feats: None
+4	you	lemma: you	pos: PRON	dep: nsubj	gov: 8	feats: Case=Nom|Person=2|PronType=Prs
+5	wo	lemma: will	pos: AUX	dep: aux	gov: 8	feats: VerbForm=Fin
+6	n't	lemma: not	pos: PART	dep: advmod	gov: 8	feats: None
+7	be	lemma: be	pos: AUX	dep: cop	gov: 8	feats: VerbForm=Inf
+8	hungry	lemma: hungry	pos: ADJ	dep: advcl	gov: 1	feats: Degree=Pos
+9	later	lemma: late	pos: ADV	dep: advmod	gov: 8	feats: Degree=Cmp
+
+ 157 If you build it, then they will come
+1	If	lemma: if	pos: SCONJ	dep: mark	gov: 3	feats: None
+2	you	lemma: you	pos: PRON	dep: nsubj	gov: 3	feats: Case=Nom|Person=2|PronType=Prs
+3	build	lemma: build	pos: VERB	dep: advcl	gov: 9	feats: Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin
+4	it	lemma: it	pos: PRON	dep: obj	gov: 3	feats: Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+5	,	lemma: ,	pos: PUNCT	dep: punct	gov: 9	feats: None
+6	then	lemma: then	pos: ADV	dep: advmod	gov: 9	feats: PronType=Dem
+7	they	lemma: they	pos: PRON	dep: nsubj	gov: 9	feats: Case=Nom|Number=Plur|Person=3|PronType=Prs
+8	will	lemma: will	pos: AUX	dep: aux	gov: 9	feats: VerbForm=Fin
+9	come	lemma: come	pos: VERB	dep: root	gov: 0	feats: VerbForm=Inf
+
+ 158 Just to let you all know, Matt confirmed the booking for 3rd December is OK
+1	Just	lemma: just	pos: ADV	dep: advmod	gov: 3	feats: None
+2	to	lemma: to	pos: PART	dep: mark	gov: 3	feats: None
+3	let	lemma: let	pos: VERB	dep: prataxis	gov: 9	feats: VerbForm=Inf
+4	you	lemma: you	pos: PRON	dep: obj	gov: 3	feats: Case=Acc|Person=2|PronType=Prs
+5	all	lemma: all	pos: DET	dep: det	gov: 4	feats: None
+6	know	lemma: know	pos: VERB	dep: xcomp	gov: 3	feats: VerbForm=Inf
+7	,	lemma: ,	pos: PUNCT	dep: punct	gov: 9	feats: None
+8	Matt	lemma: Matt	pos: PROPN	dep: nsubj	gov: 9	feats: Number=Sing
+9	confirmed	lemma: confirm	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+10	the	lemma: the	pos: DET	dep: det	gov: 11	feats: Definite=Def|PronType=Art
+11	booking	lemma: booking	pos: NOUN	dep: nsubj	gov: 16	feats: Number=Sing
+12	for	lemma: for	pos: ADP	dep: case	gov: 14	feats: None
+13	3rd	lemma: 3rd	pos: ADJ	dep: amod	gov: 14	feats: Degree=Pos|NumType=Ord
+14	December	lemma: December	pos: PROPN	dep: nmod	gov: 11	feats: Number=Sing
+15	is	lemma: be	pos: AUX	dep: cop	gov: 16	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+16	OK	lemma: ok	pos: ADJ	dep: ccomp	gov: 9	feats: Degree=Pos
+
+ 159 It's not me, is it?
+1	It	lemma: it	pos: PRON	dep: nsubj	gov: 4	feats: Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+2	's	lemma: be	pos: AUX	dep: cop	gov: 4	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+3	not	lemma: not	pos: PART	dep: advmod	gov: 4	feats: None
+4	me	lemma: I	pos: PRON	dep: root	gov: 0	feats: Case=Acc|Number=Sing|Person=1|PronType=Prs
+5	,	lemma: ,	pos: PUNCT	dep: punct	gov: 4	feats: None
+6	is	lemma: be	pos: VERB	dep: parataxis	gov: 4	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+7	it	lemma: it	pos: PRON	dep: nsubj	gov: 6	feats: Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+8	?	lemma: ?	pos: PUNCT	dep: punct	gov: 4	feats: None
+
+ 160 Gus, take it easy!
+1	Gus	lemma: Gus	pos: PROPN	dep: vocative	gov: 3	feats: Number=Sing
+2	,	lemma: ,	pos: PUNCT	dep: punct	gov: 3	feats: None
+3	take	lemma: take	pos: VERB	dep: root	gov: 0	feats: Mood=Imp|VerbForm=Fin
+4	it	lemma: it	pos: PRON	dep: obj	gov: 3	feats: Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+5	easy	lemma: easy	pos: ADV	dep: advmod	gov: 3	feats: Degree=Pos
+6	!	lemma: !	pos: PUNCT	dep: punct	gov: 3	feats: None
+
+ 161 We started digging
+1	We	lemma: we	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Number=Plur|Person=1|PronType=Prs
+2	started	lemma: start	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin
+3	digging	lemma: dig	pos: VERB	dep: xcomp	gov: 2	feats: VerbForm=Ger
+
+ 162 Sue asked George to respond to her offer
+1	Sue	lemma: Sue	pos: PROPN	dep: nsubj	gov: 2	feats: Number=Sing
+2	asked	lemma: ask	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+3	George	lemma: George	pos: PROPN	dep: obj	gov: 2	feats: Number=Sing
+4	to	lemma: to	pos: PART	dep: mark	gov: 5	feats: None
+5	respond	lemma: respond	pos: VERB	dep: xcomp	gov: 2	feats: VerbForm=Inf
+6	to	lemma: to	pos: ADP	dep: case	gov: 8	feats: None
+7	her	lemma: she	pos: PRON	dep: nmod:poss	gov: 8	feats: Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+8	offer	lemma: offer	pos: NOUN	dep: obl	gov: 5	feats: Number=Sing
+
+ 163 You look great
+1	You	lemma: you	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Person=2|PronType=Prs
+2	look	lemma: look	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin
+3	great	lemma: great	pos: ADJ	dep: xcomp	gov: 2	feats: Degree=Pos
+
+ 164 I started to work there yesterday
+1	I	lemma: I	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Number=Sing|Person=1|PronType=Prs
+2	started	lemma: start	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin
+3	to	lemma: to	pos: PART	dep: mark	gov: 4	feats: None
+4	work	lemma: work	pos: VERB	dep: xcomp	gov: 2	feats: VerbForm=Inf
+5	there	lemma: there	pos: ADV	dep: advmod	gov: 4	feats: PronType=Dem
+6	yesterday	lemma: yesterday	pos: NOUN	dep: obl:tmod	gov: 4	feats: Number=Sing
+
+ 165 I consider him a fool
+1	I	lemma: I	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Number=Sing|Person=1|PronType=Prs
+2	consider	lemma: consider	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+3	him	lemma: he	pos: PRON	dep: obj	gov: 2	feats: Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+4	a	lemma: a	pos: DET	dep: det	gov: 5	feats: Definite=Ind|PronType=Art
+5	fool	lemma: fool	pos: NOUN	dep: xcomp	gov: 2	feats: Number=Sing
+
+ 166 I consider her honest
+1	I	lemma: I	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Number=Sing|Person=1|PronType=Prs
+2	consider	lemma: consider	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+3	her	lemma: she	pos: PRON	dep: obj	gov: 2	feats: Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+4	honest	lemma: honest	pos: ADJ	dep: xcomp	gov: 2	feats: Degree=Pos
+
+ 167 We expect them to change their minds
+1	We	lemma: we	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Number=Plur|Person=1|PronType=Prs
+2	expect	lemma: expect	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+3	them	lemma: they	pos: PRON	dep: obj	gov: 2	feats: Case=Acc|Number=Plur|Person=3|PronType=Prs
+4	to	lemma: to	pos: PART	dep: mark	gov: 5	feats: None
+5	change	lemma: change	pos: VERB	dep: xcomp	gov: 2	feats: VerbForm=Inf
+6	their	lemma: they	pos: PRON	dep: nmod:poss	gov: 7	feats: Number=Plur|Person=3|Poss=Yes|PronType=Prs
+7	minds	lemma: mind	pos: NOUN	dep: obj	gov: 5	feats: Number=Plur
+
+ 168 Sue is liable to be arrested
+1	Sue	lemma: Sue	pos: PROPN	dep: nsubj	gov: 3	feats: Number=Sing
+2	is	lemma: be	pos: AUX	dep: cop	gov: 3	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+3	liable	lemma: liable	pos: ADJ	dep: root	gov: 0	feats: Degree=Pos
+4	to	lemma: to	pos: PART	dep: mark	gov: 6	feats: None
+5	be	lemma: be	pos: AUX	dep: aux:pass	gov: 6	feats: VerbForm=Inf
+6	arrested	lemma: arrest	pos: VERB	dep: xcomp	gov: 3	feats: Tense=Past|VerbForm=Part|Voice=Pass
+
+ 169 She declared the cake beautiful
+1	She	lemma: she	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+2	declared	lemma: declare	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+3	the	lemma: the	pos: DET	dep: det	gov: 4	feats: Definite=Def|PronType=Art
+4	cake	lemma: cake	pos: NOUN	dep: obj	gov: 2	feats: Number=Sing
+5	beautiful	lemma: beautiful	pos: ADJ	dep: xcomp	gov: 2	feats: Degree=Pos
+
+
+ 170 He worked so that Mary could eat
+1	He	lemma: he	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+2	worked	lemma: work	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+3	so	lemma: so	pos: SCONJ	dep: mark	gov: 7	feats: None
+4	that	lemma: that	pos: SCONJ	dep: fixed	gov: 3	feats: None
+5	Mary	lemma: Mary	pos: PROPN	dep: nsubj	gov: 7	feats: Number=Sing
+6	could	lemma: could	pos: AUX	dep: aux	gov: 7	feats: VerbForm=Fin
+7	eat	lemma: eat	pos: VERB	dep: advcl	gov: 2	feats: VerbForm=Inf
+
+ 171 He worked to eat
+1	He	lemma: he	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+2	worked	lemma: work	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+3	to	lemma: to	pos: PART	dep: mark	gov: 4	feats: None
+4	eat	lemma: eat	pos: VERB	dep: xcomp	gov: 2	feats: VerbForm=Inf
+
+ 172 There is food in the kitchen
+1	There	lemma: there	pos: PRON	dep: expl	gov: 2	feats: None
+2	is	lemma: be	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+3	food	lemma: food	pos: NOUN	dep: nsubj	gov: 2	feats: Number=Sing
+4	in	lemma: in	pos: ADP	dep: case	gov: 6	feats: None
+5	the	lemma: the	pos: DET	dep: det	gov: 6	feats: Definite=Def|PronType=Art
+6	kitchen	lemma: kitchen	pos: NOUN	dep: obl	gov: 2	feats: Number=Sing
+
+ 173 The food is in the kitchen
+1	The	lemma: the	pos: DET	dep: det	gov: 2	feats: Definite=Def|PronType=Art
+2	food	lemma: food	pos: NOUN	dep: nsubj	gov: 6	feats: Number=Sing
+3	is	lemma: be	pos: AUX	dep: cop	gov: 6	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+4	in	lemma: in	pos: ADP	dep: case	gov: 6	feats: None
+5	the	lemma: the	pos: DET	dep: det	gov: 6	feats: Definite=Def|PronType=Art
+6	kitchen	lemma: kitchen	pos: NOUN	dep: root	gov: 0	feats: Number=Sing
+
+ 174 I live in apartment 71
+1	I	lemma: I	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Number=Sing|Person=1|PronType=Prs
+2	live	lemma: live	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+3	in	lemma: in	pos: ADP	dep: case	gov: 4	feats: None
+4	apartment	lemma: apartment	pos: NOUN	dep: obl	gov: 2	feats: Number=Sing
+5	71	lemma: 71	pos: NUM	dep: nmod	gov: 4	feats: NumForm=Digit|NumType=Card
+
+ 175 The problem is Sue left the room
+1	The	lemma: the	pos: DET	dep: det	gov: 2	feats: Definite=Def|PronType=Art
+2	problem	lemma: problem	pos: NOUN	dep: nsubj:outer	gov: 5	feats: Number=Sing
+3	is	lemma: be	pos: AUX	dep: cop	gov: 5	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+4	Sue	lemma: Sue	pos: PROPN	dep: nsubj	gov: 5	feats: Number=Sing
+5	left	lemma: leave	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+6	the	lemma: the	pos: DET	dep: det	gov: 7	feats: Definite=Def|PronType=Art
+7	room	lemma: room	pos: NOUN	dep: obj	gov: 5	feats: Number=Sing
+
+ 176 The problem is to leave the room
+1	The	lemma: the	pos: DET	dep: det	gov: 2	feats: Definite=Def|PronType=Art
+2	problem	lemma: problem	pos: NOUN	dep: nsubj:outer	gov: 5	feats: Number=Sing
+3	is	lemma: be	pos: AUX	dep: cop	gov: 5	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+4	to	lemma: to	pos: PART	dep: mark	gov: 5	feats: None
+5	leave	lemma: leave	pos: VERB	dep: root	gov: 3	feats: VerbForm=Inf
+6	the	lemma: the	pos: DET	dep: det	gov: 7	feats: Definite=Def|PronType=Art
+7	room	lemma: room	pos: NOUN	dep: obj	gov: 5	feats: Number=Sing
+
+ 177 His dream is to fly airplanes
+1	His	lemma: his	pos: PRON	dep: nmod:poss	gov: 2	feats: Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+2	dream	lemma: dream	pos: NOUN	dep: nsubj:outer	gov: 5	feats: Number=Sing
+3	is	lemma: be	pos: AUX	dep: cop	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+4	to	lemma: to	pos: PART	dep: mark	gov: 5	feats: None
+5	fly	lemma: fly	pos: VERB	dep: root	gov: 3	feats: VerbForm=Inf
+6	airplanes	lemma: airplane	pos: NOUN	dep: obj	gov: 5	feats: Number=Plur
+
+ 178 It is important that you leave the room
+1	It	lemma: it	pos: PRON	dep: expl	gov: 3	feats: Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+2	is	lemma: be	pos: AUX	dep: cop	gov: 3	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+3	important	lemma: important	pos: ADJ	dep: root	gov: 0	feats: Degree=Pos
+4	that	lemma: that	pos: SCONJ	dep: mark	gov: 6	feats: None
+5	you	lemma: you	pos: PRON	dep: nsubj	gov: 6	feats: Case=Nom|Person=2|PronType=Prs
+6	leave	lemma: leave	pos: VERB	dep: csubj	gov: 3	feats: Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin
+7	the	lemma: the	pos: DET	dep: det	gov: 8	feats: Definite=Def|PronType=Art
+8	room	lemma: room	pos: NOUN	dep: obj	gov: 6	feats: Number=Sing
+
+ 179 It is you who left the room
+1	It	lemma: it	pos: PRON	dep: nsubj	gov: 3	feats: Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+2	is	lemma: be	pos: AUX	dep: cop	gov: 3	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+3	you	lemma: you	pos: PRON	dep: root	gov: 0	feats: Case=Acc|Person=2|PronType=Prs
+4	who	lemma: who	pos: PRON	dep: nsubj	gov: 5	feats: PronType=Rel
+5	left	lemma: leave	pos: VERB	dep: csubj	gov: 3	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+6	the	lemma: the	pos: DET	dep: det	gov: 7	feats: Definite=Def|PronType=Art
+7	room	lemma: room	pos: NOUN	dep: obj	gov: 5	feats: Number=Sing
+
+ 180 It is important to leave the room
+1	It	lemma: it	pos: PRON	dep: expl	gov: 3	feats: Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+2	is	lemma: be	pos: AUX	dep: cop	gov: 3	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+3	important	lemma: important	pos: ADJ	dep: root	gov: 0	feats: Degree=Pos
+4	to	lemma: to	pos: PART	dep: mark	gov: 5	feats: None
+5	leave	lemma: leave	pos: VERB	dep: csubj	gov: 3	feats: VerbForm=Inf
+6	the	lemma: the	pos: DET	dep: det	gov: 7	feats: Definite=Def|PronType=Art
+7	room	lemma: room	pos: NOUN	dep: obj	gov: 5	feats: Number=Sing
+
+ 181 We exercise except after dinner
+1	We	lemma: we	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Number=Plur|Person=1|PronType=Prs
+2	exercise	lemma: exercise	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+3	except	lemma: except	pos: ADP	dep: case	gov: 5	feats: None
+4	after	lemma: after	pos: ADP	dep: case	gov: 5	feats: None
+5	dinner	lemma: dinner	pos: NOUN	dep: adv	gov: 2	feats: Number=Sing
+
+ 182 I am tired of waiting
+1	I	lemma: I	pos: PRON	dep: nsubj	gov: 3	feats: Case=Nom|Number=Sing|Person=1|PronType=Prs
+2	am	lemma: be	pos: AUX	dep: cop	gov: 3	feats: Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+3	tired	lemma: tired	pos: ADJ	dep: root	gov: 0	feats: Degree=Pos
+4	of	lemma: of	pos: SCONJ	dep: mark	gov: 5	feats: None
+5	waiting	lemma: wait	pos: VERB	dep: advcl	gov: 3	feats: VerbForm=Ger
+
+ 183 We are almost near there
+1	We	lemma: we	pos: PRON	dep: nsubj	gov: 5	feats: Case=Nom|Number=Plur|Person=1|PronType=Prs
+2	are	lemma: be	pos: AUX	dep: cop	gov: 5	feats: Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+3	almost	lemma: almost	pos: ADV	dep: advmod	gov: 5	feats: None
+4	near	lemma: near	pos: ADP	dep: case	gov: 5	feats: None
+5	there	lemma: there	pos: ADV	dep: root	gov: 0	feats: PronType=Dem
+
+ 184 The speech was well received
+1	The	lemma: the	pos: DET	dep: det	gov: 2	feats: Definite=Def|PronType=Art
+2	speech	lemma: speech	pos: NOUN	dep: nsubj:pass	gov: 5	feats: Number=Sing
+3	was	lemma: be	pos: AUX	dep: aux:pass	gov: 5	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+4	well	lemma: well	pos: ADV	dep: advmod	gov: 5	feats: Degree=Pos
+5	received	lemma: receive	pos: VERB	dep: root	gov: 0	feats: Tense=Past|VerbForm=Part|Voice=Pass
+
+ 185 The speech was well argued
+1	The	lemma: the	pos: DET	dep: det	gov: 2	feats: Definite=Def|PronType=Art
+2	speech	lemma: speech	pos: NOUN	dep: nsubj:pass	gov: 5	feats: Number=Sing
+3	was	lemma: be	pos: AUX	dep: aux:pass	gov: 5	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+4	well	lemma: well	pos: ADV	dep: advmod	gov: 5	feats: Degree=Pos
+5	argued	lemma: argue	pos: VERB	dep: root	gov: 0	feats: Tense=Past|VerbForm=Part|Voice=Pass
+
+ 186 When do you want to talk?
+1	When	lemma: when	pos: ADV	dep: advmod	gov: 4	feats: PronType=Int
+2	do	lemma: do	pos: AUX	dep: aux	gov: 4	feats: Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin
+3	you	lemma: you	pos: PRON	dep: nsubj	gov: 4	feats: Case=Nom|Person=2|PronType=Prs
+4	want	lemma: want	pos: VERB	dep: root	gov: 0	feats: VerbForm=Inf
+5	to	lemma: to	pos: PART	dep: mark	gov: 6	feats: None
+6	talk	lemma: talk	pos: VERB	dep: xcomp	gov: 4	feats: VerbForm=Inf
+7	?	lemma: ?	pos: PUNCT	dep: punct	gov: 4	feats: None
+
+ 187 He was upset when we talked
+1	He	lemma: he	pos: PRON	dep: nsubj	gov: 3	feats: Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+2	was	lemma: be	pos: AUX	dep: cop	gov: 3	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+3	upset	lemma: upset	pos: ADJ	dep: root	gov: 0	feats: Degree=Pos
+4	when	lemma: when	pos: SCONJ	dep: mark	gov: 6	feats: PronType=Int
+5	we	lemma: we	pos: PRON	dep: nsubj	gov: 6	feats: Case=Nom|Number=Plur|Person=1|PronType=Prs
+6	talked	lemma: talk	pos: VERB	dep: advcl	gov: 3	feats: Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin
+
+ 188 We eat bread, butter and jam
+1	We	lemma: we	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Number=Plur|Person=1|PronType=Prs
+2	eat	lemma: eat	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+3	bread	lemma: bread	pos: NOUN	dep: obj	gov: 2	feats: Number=Sing
+4	,	lemma: ,	pos: PUNCT	dep: punct	gov: 5	feats: None
+5	butter	lemma: butter	pos: NOUN	dep: conj	gov: 3	feats: Number=Sing
+6	and	lemma: and	pos: CCONJ	dep: cc	gov: 7	feats: None
+7	jam	lemma: jam	pos: NOUN	dep: conj	gov: 3	feats: Number=Sing
+
+ 189 Sue is a doctor and Mary is a pilot
+1	Sue	lemma: Sue	pos: PROPN	dep: nsubj	gov: 4	feats: Number=Sing
+2	is	lemma: be	pos: AUX	dep: cop	gov: 4	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+3	a	lemma: a	pos: DET	dep: det	gov: 4	feats: Definite=Ind|PronType=Art
+4	doctor	lemma: doctor	pos: NOUN	dep: root	gov: 0	feats: Number=Sing
+5	and	lemma: and	pos: CCONJ	dep: cc	gov: 9	feats: None
+6	Mary	lemma: Mary	pos: PROPN	dep: nsubj	gov: 9	feats: Number=Sing
+7	is	lemma: be	pos: AUX	dep: cop	gov: 9	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+8	a	lemma: a	pos: DET	dep: det	gov: 9	feats: Definite=Ind|PronType=Art
+9	pilot	lemma: pilot	pos: NOUN	dep: conj	gov: 4	feats: Number=Sing
+
+ 190 I ate an apple today
+1	I	lemma: I	pos: PRON	dep: nsubj	gov: 2	feats: Case=Nom|Number=Sing|Person=1|PronType=Prs
+2	ate	lemma: eat	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin
+3	an	lemma: a	pos: DET	dep: det	gov: 4	feats: Definite=Ind|PronType=Art
+4	apple	lemma: apple	pos: NOUN	dep: obj	gov: 2	feats: Number=Sing
+5	today	lemma: today	pos: NOUN	dep: obl:tmod	gov: 2	feats: Number=Sing
+
+ 191 I am 73 years old
+1	I	lemma: I	pos: PRON	dep: nsubj	gov: 5	feats: Case=Nom|Number=Sing|Person=1|PronType=Prs
+2	am	lemma: be	pos: AUX	dep: cop	gov: 5	feats: Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+3	73	lemma: 73	pos: NUM	dep: nummod	gov: 4	feats: NumForm=Digit|NumType=Card
+4	years	lemma: year	pos: NOUN	dep: obl:tmod	gov: 5	feats: Number=Plur
+5	old	lemma: old	pos: ADJ	dep: root	gov: 0	feats: Degree=Pos
+
+ 192 The stick is 6 feet long
+1	The	lemma: the	pos: DET	dep: det	gov: 2	feats: Definite=Def|PronType=Art
+2	stick	lemma: stick	pos: NOUN	dep: nsubj	gov: 6	feats: Number=Sing
+3	is	lemma: be	pos: AUX	dep: cop	gov: 6	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+4	6	lemma: 6	pos: NUM	dep: nummod	gov: 5	feats: NumForm=Digit|NumType=Card
+5	feet	lemma: foot	pos: NOUN	dep: obl:npmod	gov: 6	feats: Number=Plur
+6	long	lemma: long	pos: ADJ	dep: root	gov: 0	feats: Degree=Pos
+
+ 193 The noose eased a fraction
+1	The	lemma: the	pos: DET	dep: det	gov: 2	feats: Definite=Def|PronType=Art
+2	noose	lemma: noose	pos: NOUN	dep: nsubj	gov: 3	feats: Number=Sing
+3	eased	lemma: eas	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+4	a	lemma: a	pos: DET	dep: det	gov: 5	feats: Definite=Ind|PronType=Art
+5	fraction	lemma: fraction	pos: NOUN	dep: obl:npmod	gov: 3	feats: Number=Sing
+
+ 194 IBM earned $5 a share
+1	IBM	lemma: IBM	pos: PROPN	dep: nsubj	gov: 2	feats: Number=Sing
+2	earned	lemma: earn	pos: VERB	dep: root	gov: 0	feats: Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+3	$	lemma: $	pos: SYM	dep: obj	gov: 2	feats: None
+4	5	lemma: 5	pos: NUM	dep: nummod	gov: 3	feats: NumForm=Digit|NumType=Card
+5	a	lemma: a	pos: DET	dep: det	gov: 6	feats: Definite=Ind|PronType=Art
+6	share	lemma: share	pos: NOUN	dep: obl:npmod	gov: 2	feats: Number=Sing
+
+ 195 The silence is itself significant
+1	The	lemma: the	pos: DET	dep: det	gov: 2	feats: Definite=Def|PronType=Art
+2	silence	lemma: silence	pos: NOUN	dep: nsubj	gov: 5	feats: Number=Sing
+3	is	lemma: be	pos: AUX	dep: cop	gov: 5	feats: Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+4	itself	lemma: itself	pos: PRON	dep: obl:npmod	gov: 5	feats: Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Emp|Reflex=Yes
+5	significant	lemma: significant	pos: ADJ	dep: root	gov: 0	feats: Degree=Pos
+
+ 196 I am here
+1	I	lemma: I	pos: PRON	dep: nsubj	gov: 3	feats: Case=Nom|Number=Sing|Person=1|PronType=Prs
+2	am	lemma: be	pos: AUX	dep: cop	gov: 3	feats: Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+3	here	lemma: here	pos: ADV	dep: root	gov: 0	feats: PronType=Dem
+
+ 197 We are in here
+1	We	lemma: we	pos: PRON	dep: nsubj	gov: 4	feats: Case=Nom|Number=Plur|Person=1|PronType=Prs
+2	are	lemma: be	pos: AUX	dep: cop	gov: 4	feats: Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+3	in	lemma: in	pos: ADP	dep: case	gov: 4	feats: None
+4	here	lemma: here	pos: ADV	dep: root	gov: 0	feats: PronType=Dem
