@@ -215,7 +215,9 @@ def spacy_to_ud(sent: SentenceNode):
     prep_node: WordNode
     verb_node: WordNode
     for word_node in sent.word_nodes:
-        if word_node.dependency_relation == 'aux':
+        if word_node.dependency_relation == 'expl':
+            expl_to_ud(word_node)
+        elif word_node.dependency_relation == 'aux':
             aux_to_ud(word_node)
         elif word_node.dependency_relation == 'oprd':
             oprd_to_ud(word_node)
@@ -246,6 +248,45 @@ def spacy_to_ud(sent: SentenceNode):
         elif word_node.dependency_relation == 'dep':
             dep_to_ud(word_node)
     fix_advmod_cop(sent)
+
+
+"""
+UD treats the following two sentences differently:
+'There is food in the kitchen' - existential
+    UD: (there) -expl-> BE (is) <-nsubj- (food)
+                                <-obl- (kitchen)
+    Spacy: (there) -expl-> BE (is) <-nsubj- (food) <-prep- (in) <-pobj- (kitchen)
+'The food is in the kitchen' - copula
+    UD: (food) -nsubj-> (kitchen) <-cop- BE (is)
+    Spacy: (food) -nsubj-> BE (is) <-prep- (in) <-pobj- (kitchen)
+To match UD in the first sentence, we need to find the first prep attached to the nsubj of BE and point it to BE
+"""
+
+
+def expl_to_ud(word_node: WordNode):
+    if word_node.lemma != 'there':
+        return
+    be_node: WordNode
+    be_node = word_node.governor_word
+    if be_node.lemma != 'be':
+        return
+    subj_node: WordNode
+    subj_node = find_subj(be_node)
+    if not subj_node:
+        subj_node = find_governed(be_node, 'attr')
+    if not subj_node:
+        return
+    i = subj_node.index
+    prep_node: WordNode
+    sent: SentenceNode
+    sent = word_node.sentence_node
+    if len(sent.word_nodes) <= i:
+        return  # sentence ends without a preposition following nsubj
+    prep_node = sent.word_nodes[i]  # indexes are 1-based, this is the i+1 word
+    if prep_node.upos != 'ADP' or prep_node.governor_word != subj_node:
+        return
+    prep_node.governor = be_node.index
+    prep_node.governor_word = be_node  # pobj_to_ud will make the dependency obl
 
 
 def aux_to_ud(word_node: WordNode):
